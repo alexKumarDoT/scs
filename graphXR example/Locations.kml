@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Downhill Strand</name>
+<Point><coordinates>-6.8075,55.1685,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>The Dark Hedges</name>
+<Point><coordinates>-6.380822,55.1346929,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ballintoy</name>
+<Point><coordinates>-6.35914,55.23636,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Magheramorne Quarry</name>
+<Point><coordinates>-5.77452,54.81499,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shane&#39;s Castle</name>
+<Point><coordinates>-6.2688673,54.7276168,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Castle Ward</name>
+<Point><coordinates>-5.5804912,54.3676822,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tollymore Forest Park</name>
+<Point><coordinates>-5.9476488,54.2193171,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cairncastle</name>
+<Point><coordinates>-5.88173,54.89593,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Audley&#39;s Field and Castle</name>
+<Point><coordinates>-5.5719694,54.3795571,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Larrybane</name>
+<Point><coordinates>-6.3512037,55.2411392,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cushendun Caves</name>
+<Point><coordinates>-6.04293,55.12578,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Murlough Bay</name>
+<Point><coordinates>-6.129985,55.2088265,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Quoile River</name>
+<Point><coordinates>-5.7098572,54.3484137,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pollnagollum Cave</name>
+<Point><coordinates>-7.8126781,54.3367018,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shillanavogy Road</name>
+<Point><coordinates>-6.0493005,54.8613797,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Glenariff/Waterfoot</name>
+<Point><coordinates>-6.06136,55.06159,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Binevenagh Mountain</name>
+<Point><coordinates>-6.9155555,55.1141666,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Portstewart Strand</name>
+<Point><coordinates>-6.7502389,55.1688557,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Quintin Bay</name>
+<Point><coordinates>-5.4930738,54.3684618,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dubrovnik</name>
+<Point><coordinates>18.0944238,42.6506606,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gradac Park</name>
+<Point><coordinates>18.1026167,42.641527,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Minceta Tower</name>
+<Point><coordinates>18.1083794,42.6430069,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fort Bokar</name>
+<Point><coordinates>18.1061318,42.6409194,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Trsteno Arboretum</name>
+<Point><coordinates>17.9726331,42.7130651,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lokrum</name>
+<Point><coordinates>18.1176678,42.6310979,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Diocletian&#39;s Palace</name>
+<Point><coordinates>16.4402652,43.5085953,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>St. Dominic Monastery</name>
+<Point><coordinates>16.2489788,43.5157175,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kaštel Gomilica</name>
+<Point><coordinates>16.3963197,43.5492998,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Klis Fortress</name>
+<Point><coordinates>16.5223542,43.5607873,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Šibenik</name>
+<Point><coordinates>15.8952045,43.7350196,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Baška Voda</name>
+<Point><coordinates>16.9520477,43.3572645,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dimmuborgir</name>
+<Point><coordinates>-16.9201399,65.5954099,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lake Mývatn</name>
+<Point><coordinates>-16.9961055,65.60386,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grjótagjá Cave</name>
+<Point><coordinates>-16.8815665,65.6271251,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vatnajokull</name>
+<Point><coordinates>-16.7902035,64.421969,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Svínafellsjökull</name>
+<Point><coordinates>-16.8214782,64.0185923,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Skaftafell</name>
+<Point><coordinates>-16.9751755,64.070414,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Höfðabrekkuheiði</name>
+<Point><coordinates>-18.9030933,63.5069633,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vik</name>
+<Point><coordinates>-19.0060479,63.4186315,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mýrdalsjökull</name>
+<Point><coordinates>-19.1302843,63.64673,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Thingvellir National Park</name>
+<Point><coordinates>-21.1298615,64.2558284,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Castell de Santa Florentina</name>
+<Point><coordinates>2.576777,41.600754,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Castle of Zafra</name>
+<Point><coordinates>-1.706353,40.8347116,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bardenas Reales</name>
+<Point><coordinates>-1.4821482,42.1872313,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Itzurun</name>
+<Point><coordinates>-2.2571955,43.3001121,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gaztelugatxeko Doniene</name>
+<Point><coordinates>-2.7853101,43.4471185,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Italica</name>
+<Point><coordinates>-6.0467827,37.4438689,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cáceres‎</name>
+<Point><coordinates>-6.3724247,39.4752765,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Osuna</name>
+<Point><coordinates>-5.1033081,37.2373642,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Alcazar of Seville</name>
+<Point><coordinates>-5.9902257,37.3830519,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Roman Bridge of Córdoba</name>
+<Point><coordinates>-4.7783539,37.8769996,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Alcazaba of Almería</name>
+<Point><coordinates>-2.4725592,36.8412539,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tabernas Desert</name>
+<Point><coordinates>-2.5197932,37.0777487,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Peniscola</name>
+<Point><coordinates>0.3654204,40.3593167,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cathedral of Saint Mary of Girona</name>
+<Point><coordinates>2.8263055,41.9874315,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mdina</name>
+<Point><coordinates>14.4068357,35.888093,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>San Anton Palace</name>
+<Point><coordinates>14.4463108,35.8964431,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fort Manoel</name>
+<Point><coordinates>14.502176,35.9037636,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fort Ricasoli</name>
+<Point><coordinates>14.526449,35.897264,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Verdala Palace</name>
+<Point><coordinates>14.4006292,35.8614473,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Manikata</name>
+<Point><coordinates>14.347867,35.931234,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mtahleb Valley</name>
+<Point><coordinates>14.3560609,35.8813154,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gozo</name>
+<Point><coordinates>14.2512221,36.0442999,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Aït Benhaddou</name>
+<Point><coordinates>-7.1318996,31.047043,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ouarzazate</name>
+<Point><coordinates>-6.937016,30.9335436,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Essaouira</name>
+<Point><coordinates>-9.7595041,31.5084926,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Doune Castle</name>
+<Point><coordinates>-4.0499462,56.1851961,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

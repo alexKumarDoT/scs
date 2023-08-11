@@ -1,0 +1,3144 @@
+seasonEpisode,speaker,lineCount,wordCount
+S1E1,Arya Stark,5,15
+S1E1,Benjen Stark,12,149
+S1E1,Bran Stark,14,61
+S1E1,Catelyn Stark,35,400
+S1E1,Cersei Lannister,17,140
+S1E1,Daenerys Targaryen,9,70
+S1E1,Eddard Stark,51,398
+S1E1,Gared,4,28
+S1E1,Illyrio Mopatis,15,184
+S1E1,Jaime Lannister,18,260
+S1E1,Jon Snow,23,161
+S1E1,Jorah Mormont,4,49
+S1E1,Khal Drogo,5,9
+S1E1,Maester Luwin,6,83
+S1E1,Maid,1,5
+S1E1,Robb Stark,11,64
+S1E1,Robert Baratheon,18,338
+S1E1,Rodrik Cassel,3,31
+S1E1,Ros,8,68
+S1E1,Sandor Clegane,3,18
+S1E1,Sansa Stark,13,92
+S1E1,Septa Mordane,2,22
+S1E1,Stark Guard,1,5
+S1E1,Theon Greyjoy,7,54
+S1E1,Tyrion Lannister,20,206
+S1E1,Viserys Targaryen,18,286
+S1E1,Waymar Royce,7,99
+S1E1,Will,8,119
+S1E10,Addam Marbrand,2,22
+S1E10,Arya Stark,5,51
+S1E10,Bran Stark,8,130
+S1E10,Catelyn Stark,12,109
+S1E10,Cersei Lannister,1,6
+S1E10,Daenerys Targaryen,25,305
+S1E10,Galbart Glover,1,10
+S1E10,Gendry,3,74
+S1E10,Grand Maester Pycelle,6,224
+S1E10,Greatjon Umber,3,133
+S1E10,Grenn,9,87
+S1E10,Hot Pie,6,75
+S1E10,Jaime Lannister,8,166
+S1E10,Jeor Mormont,6,284
+S1E10,Joffrey Baratheon,19,247
+S1E10,Jon Snow,17,72
+S1E10,Jonos Bracken,3,42
+S1E10,Jorah Mormont,13,144
+S1E10,Kevan Lannister,3,38
+S1E10,Lancel Lannister,1,31
+S1E10,Leo Lefford,2,21
+S1E10,Lommy Greenhands,5,37
+S1E10,Lord Varys,11,145
+S1E10,Maester Luwin,1,1
+S1E10,Marillion,9,123
+S1E10,Mirri Maz Duur,9,244
+S1E10,Osha,5,56
+S1E10,Petyr Baelish,10,118
+S1E10,Pypar,6,91
+S1E10,Rakharo,1,5
+S1E10,Rickard Karstark,2,62
+S1E10,Rickon Stark,5,27
+S1E10,Robb Stark,4,45
+S1E10,Rodrik Cassel,1,40
+S1E10,Ros,4,26
+S1E10,Samwell Tarly,11,104
+S1E10,Sandor Clegane,4,22
+S1E10,Sansa Stark,7,42
+S1E10,Shae,7,63
+S1E10,Stark Bannermen,1,6
+S1E10,Stark Guard,1,2
+S1E10,Theon Greyjoy,3,62
+S1E10,Tyrion Lannister,10,193
+S1E10,Tywin Lannister,5,173
+S1E10,Yoren,6,212
+S1E2,Arya Stark,24,143
+S1E2,Benjen Stark,2,7
+S1E2,Catelyn Stark,22,240
+S1E2,Catspaw Assassin,1,19
+S1E2,Cersei Lannister,19,288
+S1E2,Daenerys Targaryen,14,91
+S1E2,Doreah,12,244
+S1E2,Eddard Stark,34,289
+S1E2,Irri,4,27
+S1E2,Jaime Lannister,9,160
+S1E2,Jhiqui,2,6
+S1E2,Joffrey Baratheon,17,214
+S1E2,Jon Snow,24,266
+S1E2,Jorah Mormont,5,106
+S1E2,Jory Cassel,4,30
+S1E2,Lannister Soldier,2,14
+S1E2,Lannister Soldier #1,2,13
+S1E2,Lannister Soldier #2,2,9
+S1E2,Maester Luwin,5,90
+S1E2,Mycah,4,26
+S1E2,Myrcella Baratheon,1,5
+S1E2,Robb Stark,13,119
+S1E2,Robert Baratheon,23,430
+S1E2,Rodrik Cassel,3,58
+S1E2,Sandor Clegane,4,56
+S1E2,Sansa Stark,14,127
+S1E2,Theon Greyjoy,2,15
+S1E2,Tyrion Lannister,21,497
+S1E2,Viserys Targaryen,3,67
+S1E3,Alliser Thorne,4,74
+S1E3,Arya Stark,22,145
+S1E3,Barristan Selmy,5,35
+S1E3,Benjen Stark,11,251
+S1E3,Bran Stark,5,39
+S1E3,Catelyn Stark,20,170
+S1E3,Cersei Lannister,21,309
+S1E3,Daenerys Targaryen,13,49
+S1E3,Dothraki Rider,1,5
+S1E3,Eddard Stark,45,546
+S1E3,Grand Maester Pycelle,6,72
+S1E3,Grenn,4,30
+S1E3,Irri,13,93
+S1E3,Jaime Lannister,17,341
+S1E3,Jeor Mormont,6,93
+S1E3,Joffrey Baratheon,12,150
+S1E3,Jon Snow,13,135
+S1E3,Jorah Mormont,17,224
+S1E3,Jory Cassel,1,3
+S1E3,Khal Drogo,1,3
+S1E3,King's Landing Guard,3,24
+S1E3,Lancel Lannister,2,8
+S1E3,Lord Varys,8,109
+S1E3,Maester Aemon,5,124
+S1E3,Old Nan,4,198
+S1E3,Petyr Baelish,24,343
+S1E3,Pypar,1,10
+S1E3,Rakharo,15,93
+S1E3,Rast,1,7
+S1E3,Renly Baratheon,4,56
+S1E3,Robb Stark,4,69
+S1E3,Robert Baratheon,8,336
+S1E3,Rodrik Cassel,2,12
+S1E3,Royal Steward,2,30
+S1E3,Sansa Stark,4,24
+S1E3,Septa Mordane,5,26
+S1E3,Syrio Forel,8,242
+S1E3,Tyrion Lannister,26,402
+S1E3,Viserys Targaryen,2,44
+S1E3,Yoren,9,143
+S1E4,Alliser Thorne,11,469
+S1E4,Arya Stark,8,100
+S1E4,Bran Stark,6,32
+S1E4,Bronn,1,5
+S1E4,Catelyn Stark,6,135
+S1E4,Cersei Lannister,7,137
+S1E4,Daenerys Targaryen,20,206
+S1E4,Doreah,13,186
+S1E4,Eddard Stark,52,483
+S1E4,Gendry,6,65
+S1E4,Grand Maester Pycelle,16,272
+S1E4,Grenn,10,63
+S1E4,Hodor,2,2
+S1E4,Hugh Of The Vale,3,24
+S1E4,Irri,1,2
+S1E4,Jaime Lannister,10,109
+S1E4,Janos Slynt,4,70
+S1E4,Jon Snow,30,319
+S1E4,Jorah Mormont,11,129
+S1E4,Jory Cassel,17,142
+S1E4,Knight of House Bracken,1,7
+S1E4,Knight of House Frey,1,27
+S1E4,Knight of House Whent,2,6
+S1E4,Lord Varys,2,25
+S1E4,Maester Luwin,2,16
+S1E4,Marillion,4,60
+S1E4,Masha Heddle,3,17
+S1E4,Old Nan,1,6
+S1E4,Petyr Baelish,17,444
+S1E4,Pypar,7,30
+S1E4,Rast,2,37
+S1E4,Renly Baratheon,1,18
+S1E4,Robb Stark,5,53
+S1E4,Robert Baratheon,3,37
+S1E4,Rodrik Cassel,2,13
+S1E4,Samwell Tarly,29,359
+S1E4,Sansa Stark,19,89
+S1E4,Septa Mordane,16,179
+S1E4,Theon Greyjoy,11,101
+S1E4,Tobho Mott,5,70
+S1E4,Tyrion Lannister,24,438
+S1E4,Viserys Targaryen,22,409
+S1E4,Yoren,1,3
+S1E5,Arya Stark,12,145
+S1E5,Barristan Selmy,8,96
+S1E5,Bran Stark,21,131
+S1E5,Bronn,2,26
+S1E5,Catelyn Stark,14,88
+S1E5,Cersei Lannister,17,246
+S1E5,Eddard Stark,75,621
+S1E5,Grand Maester Pycelle,1,40
+S1E5,Gregor Clegane,1,1
+S1E5,Illyrio Mopatis,4,51
+S1E5,Jaime Lannister,8,113
+S1E5,Jory Cassel,9,66
+S1E5,King's Landing Guard #1,3,37
+S1E5,King's Landing Guard #2,1,13
+S1E5,Lancel Lannister,2,12
+S1E5,Loras Tyrell,23,287
+S1E5,Lord Varys,34,565
+S1E5,Lysa Arryn,8,177
+S1E5,Maester Luwin,22,161
+S1E5,Marillion,1,25
+S1E5,Mhaegen,4,88
+S1E5,Mord,1,10
+S1E5,Petyr Baelish,33,494
+S1E5,Renly Baratheon,26,362
+S1E5,Robert Baratheon,39,808
+S1E5,Robin Arryn,4,32
+S1E5,Rodrik Cassel,3,19
+S1E5,Ros,11,84
+S1E5,Royal Steward,3,40
+S1E5,Sandor Clegane,2,6
+S1E5,Sansa Stark,6,37
+S1E5,Theon Greyjoy,13,149
+S1E5,Tyrion Lannister,14,211
+S1E5,Vardis Egen,5,42
+S1E5,Yoren,5,111
+S1E6,Arya Stark,10,75
+S1E6,Barristan Selmy,2,10
+S1E6,Beric Dondarrion,1,3
+S1E6,Bran Stark,9,44
+S1E6,Bronn,2,8
+S1E6,Catelyn Stark,1,33
+S1E6,Cersei Lannister,8,76
+S1E6,Daenerys Targaryen,7,40
+S1E6,Dothraki Crone,2,6
+S1E6,Dothraki Crowd,3,14
+S1E6,Eddard Stark,26,362
+S1E6,Grand Maester Pycelle,7,65
+S1E6,Irri,4,35
+S1E6,Joffrey Baratheon,3,109
+S1E6,Jorah Mormont,17,149
+S1E6,Joss,3,101
+S1E6,Khal Drogo,6,36
+S1E6,Lancel Lannister,2,8
+S1E6,Lysa Arryn,15,173
+S1E6,Mord,9,30
+S1E6,Osha,4,37
+S1E6,Petyr Baelish,5,106
+S1E6,Qotho,1,5
+S1E6,Renly Baratheon,6,90
+S1E6,Robb Stark,13,80
+S1E6,Robert Baratheon,19,381
+S1E6,Robin Arryn,4,19
+S1E6,Ros,8,95
+S1E6,Sansa Stark,18,148
+S1E6,Septa Mordane,9,56
+S1E6,Stiv,5,39
+S1E6,Syrio Forel,6,113
+S1E6,Theon Greyjoy,17,198
+S1E6,Tyrion Lannister,25,490
+S1E6,Vale Knight #1,1,11
+S1E6,Vale Knight #2,1,18
+S1E6,Vale Knight #3,1,6
+S1E6,Vale Knight #4,1,4
+S1E6,Vale Knight #5,1,5
+S1E6,Vardis Egen,2,37
+S1E6,Viserys Targaryen,25,371
+S1E6,Wallen,1,11
+S1E6,Wildling,1,25
+S1E7,Alliser Thorne,1,12
+S1E7,Barristan Selmy,4,52
+S1E7,Cersei Lannister,17,393
+S1E7,Daenerys Targaryen,22,169
+S1E7,Doreah,2,25
+S1E7,Eddard Stark,43,461
+S1E7,Jaime Lannister,10,101
+S1E7,Janos Slynt,2,10
+S1E7,Jaremy Rykker,1,3
+S1E7,Jeor Mormont,6,299
+S1E7,Joffrey Baratheon,3,41
+S1E7,Jon Snow,14,209
+S1E7,Jorah Mormont,17,243
+S1E7,Khal Drogo,8,168
+S1E7,Little Bird,1,20
+S1E7,Lord Varys,4,78
+S1E7,Maester Aemon,4,105
+S1E7,Maester Luwin,7,53
+S1E7,Night Watch Stable Boy,1,3
+S1E7,Night's Watch Men,1,4
+S1E7,Osha,15,154
+S1E7,Othell Yarwyck,2,13
+S1E7,Petyr Baelish,22,675
+S1E7,Pypar,2,105
+S1E7,Rakharo,2,3
+S1E7,Renly Baratheon,8,190
+S1E7,Robert Baratheon,7,278
+S1E7,Ros,8,52
+S1E7,Royal Steward,4,59
+S1E7,Samwell Tarly,17,349
+S1E7,Theon Greyjoy,12,168
+S1E7,Tomard,1,3
+S1E7,Tywin Lannister,13,348
+S1E7,Varly,1,1
+S1E7,Wine Merchant,12,186
+S1E8,Alliser Thorne,2,22
+S1E8,Arya Stark,12,62
+S1E8,Barristan Selmy,6,92
+S1E8,Bran Stark,16,142
+S1E8,Bronn,6,72
+S1E8,Catelyn Stark,22,260
+S1E8,Cersei Lannister,12,214
+S1E8,Daenerys Targaryen,17,126
+S1E8,Eddard Stark,8,56
+S1E8,Grand Maester Pycelle,7,175
+S1E8,Greatjon Umber,14,201
+S1E8,Hodor,1,1
+S1E8,Jeor Mormont,9,109
+S1E8,Joffrey Baratheon,6,67
+S1E8,Jon Snow,12,56
+S1E8,Jorah Mormont,7,51
+S1E8,Kevan Lannister,4,36
+S1E8,Khal Drogo,10,119
+S1E8,Lannister Guard,2,9
+S1E8,Lannister Messenger,1,17
+S1E8,Lannister Scout,2,10
+S1E8,Lord Varys,12,270
+S1E8,Lysa Arryn,8,140
+S1E8,Maester Luwin,5,43
+S1E8,Mago,5,37
+S1E8,Meryn Trant,5,32
+S1E8,Mirri Maz Duur,5,76
+S1E8,Night's Watch Man,1,14
+S1E8,Osha,7,150
+S1E8,Othell Yarwyck,5,36
+S1E8,Petyr Baelish,3,26
+S1E8,Pypar,1,6
+S1E8,Qotho,4,20
+S1E8,Rakharo,3,44
+S1E8,Red Keep Stableboy,3,15
+S1E8,Rickon Stark,2,7
+S1E8,Robb Stark,34,374
+S1E8,Robin Arryn,2,5
+S1E8,Rodrik Cassel,4,37
+S1E8,Royal Steward,2,31
+S1E8,Samwell Tarly,7,84
+S1E8,Sandor Clegane,1,6
+S1E8,Sansa Stark,19,265
+S1E8,Septa Mordane,3,40
+S1E8,Shagga,8,108
+S1E8,Stark Guard,2,20
+S1E8,Syrio Forel,15,134
+S1E8,Theon Greyjoy,6,33
+S1E8,Tyrion Lannister,21,436
+S1E8,Tywin Lannister,10,181
+S1E8,Vayon Poole,1,12
+S1E9,Arya Stark,6,39
+S1E9,Bronn,27,181
+S1E9,Catelyn Stark,25,276
+S1E9,Cersei Lannister,1,5
+S1E9,Chella,1,6
+S1E9,Cohollo,1,2
+S1E9,Daenerys Targaryen,28,206
+S1E9,Eddard Stark,11,256
+S1E9,Grand Maester Pycelle,1,43
+S1E9,Greatjon Umber,7,57
+S1E9,Grenn,4,21
+S1E9,Irri,1,1
+S1E9,Jaime Lannister,3,58
+S1E9,Jeor Mormont,6,224
+S1E9,Joffrey Baratheon,1,62
+S1E9,Jon Snow,20,118
+S1E9,Jorah Mormont,14,128
+S1E9,Kevan Lannister,3,43
+S1E9,Khal Drogo,3,14
+S1E9,King's Landing Baker,3,10
+S1E9,King's Landing Crowd,3,7
+S1E9,King's Landing Street Urchin,1,8
+S1E9,Lannister Soldier,2,9
+S1E9,Lord Varys,10,310
+S1E9,Maester Aemon,8,311
+S1E9,Mirri Maz Duur,9,84
+S1E9,Night's Watch Man,2,11
+S1E9,Night's Watch Man #1,1,4
+S1E9,Night's Watch Man #2,1,2
+S1E9,Night's Watch Men,1,4
+S1E9,Pypar,4,35
+S1E9,Qotho,11,86
+S1E9,Rakharo,5,41
+S1E9,Robb Stark,20,209
+S1E9,Rodrik Cassel,2,7
+S1E9,Ryger Rivers,1,2
+S1E9,Samwell Tarly,4,41
+S1E9,Sansa Stark,2,9
+S1E9,Shae,30,187
+S1E9,Shagga,1,6
+S1E9,Stark Bannermen,1,2
+S1E9,Stevron Frey,1,7
+S1E9,Street Urchin,1,5
+S1E9,Theon Greyjoy,5,71
+S1E9,Timett,1,6
+S1E9,Tribesmen of the Vale,1,6
+S1E9,Tyrion Lannister,62,988
+S1E9,Tywin Lannister,9,88
+S1E9,Walder Frey,17,301
+S1E9,Yoren,2,8
+S2E1,Alton Lannister,4,22
+S2E1,Announcer,3,23
+S2E1,Bran Stark,8,82
+S2E1,Bronn,1,3
+S2E1,Catelyn Stark,12,156
+S2E1,Cersei Lannister,34,367
+S2E1,Craster,15,295
+S2E1,Daenerys Targaryen,13,127
+S2E1,Daisy,3,8
+S2E1,Davos Seaworth,10,101
+S2E1,Dontos Hollard,5,46
+S2E1,Doreah,2,16
+S2E1,Dragonstone Crowd,2,15
+S2E1,Eddison Tollett,6,69
+S2E1,Gilly,1,17
+S2E1,Goldcloak,1,11
+S2E1,Grand Maester Pycelle,2,40
+S2E1,Grenn,4,28
+S2E1,Jaime Lannister,8,125
+S2E1,Janos Slynt,12,72
+S2E1,Jeor Mormont,18,184
+S2E1,Joffrey Baratheon,25,290
+S2E1,Jon Snow,8,33
+S2E1,Jorah Mormont,5,81
+S2E1,Lord Portan,1,15
+S2E1,Lord Varys,2,27
+S2E1,Maester Cressen,7,130
+S2E1,Maester Luwin,4,62
+S2E1,Matthos Seaworth,4,98
+S2E1,Melisandre,11,165
+S2E1,Mhaegen,2,11
+S2E1,Myrcella Baratheon,1,5
+S2E1,Night's Watch Man,1,2
+S2E1,Northern Lord,5,149
+S2E1,Osha,6,79
+S2E1,Petyr Baelish,10,147
+S2E1,Rakharo,4,20
+S2E1,Robb Stark,30,545
+S2E1,Rodrik Cassel,1,5
+S2E1,Ros,9,142
+S2E1,Samwell Tarly,6,23
+S2E1,Sandor Clegane,1,15
+S2E1,Sansa Stark,6,73
+S2E1,Shae,9,54
+S2E1,Stannis Baratheon,8,148
+S2E1,Stark Bannermen,1,4
+S2E1,Stark Soldiers,1,2
+S2E1,Theon Greyjoy,6,124
+S2E1,Tobho Mott,4,28
+S2E1,Tyrion Lannister,31,484
+S2E10,Arya Stark,13,85
+S2E10,Black Lorren,2,6
+S2E10,Bran Stark,4,27
+S2E10,Brienne of Tarth,18,131
+S2E10,Catelyn Stark,6,123
+S2E10,Cersei Lannister,1,57
+S2E10,Daenerys Targaryen,12,135
+S2E10,Dagmer Cleftjaw,2,12
+S2E10,Doreah,4,20
+S2E10,Eddison Tollett,4,34
+S2E10,Grand Maester Pycelle,4,110
+S2E10,Grenn,6,35
+S2E10,Hot Pie,1,5
+S2E10,Ironborn Soldier,1,2
+S2E10,Ironborn Soldiers,6,11
+S2E10,Jaime Lannister,16,234
+S2E10,Jaqen H'ghar,13,160
+S2E10,Joffrey Baratheon,8,242
+S2E10,Jon Snow,2,23
+S2E10,Jorah Mormont,5,22
+S2E10,Khal Drogo,4,72
+S2E10,King's Landing Man #1,1,1
+S2E10,King's Landing Man #2,1,3
+S2E10,Kovarro,2,9
+S2E10,Loras Tyrell,1,35
+S2E10,Lord Varys,17,274
+S2E10,Maester Luwin,19,308
+S2E10,Margaery Tyrell,1,37
+S2E10,Melisandre,9,132
+S2E10,Osha,2,32
+S2E10,Petyr Baelish,5,123
+S2E10,Podrick Payne,3,9
+S2E10,Pyat Pree,2,85
+S2E10,Qhorin Halfhand,2,42
+S2E10,Rattleshirt,4,18
+S2E10,Rickon Stark,1,4
+S2E10,Robb Stark,8,83
+S2E10,Ros,10,88
+S2E10,Samwell Tarly,5,71
+S2E10,Sansa Stark,3,20
+S2E10,Septon,1,26
+S2E10,Shae,10,132
+S2E10,Soldier Tom,12,136
+S2E10,Stannis Baratheon,10,134
+S2E10,Stark Soldier,11,64
+S2E10,Talisa Maegyr,2,23
+S2E10,Theon Greyjoy,19,502
+S2E10,Tyrion Lannister,19,191
+S2E10,Tywin Lannister,1,4
+S2E10,Wildling,1,1
+S2E10,Xaro Xhoan Daxos,5,38
+S2E10,Ygritte,3,61
+S2E2,Alton Lannister,3,18
+S2E2,Arya Stark,27,175
+S2E2,Balon Greyjoy,17,279
+S2E2,Bronn,3,21
+S2E2,Brothel Customer,1,21
+S2E2,Captain's Daughter,9,100
+S2E2,Cersei Lannister,16,279
+S2E2,Daenerys Targaryen,5,45
+S2E2,Davos Seaworth,24,395
+S2E2,Eddison Tollett,4,59
+S2E2,Gendry,24,281
+S2E2,Gilly,5,34
+S2E2,Goldcloak,4,62
+S2E2,Grand Maester Pycelle,2,15
+S2E2,Grenn,5,63
+S2E2,Hot Pie,10,71
+S2E2,Irri,2,26
+S2E2,Janos Slynt,18,168
+S2E2,Jaqen H'ghar,5,69
+S2E2,Jon Snow,13,133
+S2E2,Jorah Mormont,3,23
+S2E2,Lommy Greenhands,3,34
+S2E2,Lord Varys,13,209
+S2E2,Lordsport Dockhand,3,13
+S2E2,Matthos Seaworth,12,130
+S2E2,Melisandre,10,116
+S2E2,Petyr Baelish,7,218
+S2E2,Podrick Payne,2,5
+S2E2,Rorge,5,33
+S2E2,Ros,4,34
+S2E2,Salladhor Saan,14,240
+S2E2,Samwell Tarly,16,144
+S2E2,Shae,4,35
+S2E2,Stannis Baratheon,14,128
+S2E2,Theon Greyjoy,37,385
+S2E2,Tyrion Lannister,44,654
+S2E2,Yara Greyjoy,12,127
+S2E2,Yoren,5,149
+S2E3,Amory Lorch,6,72
+S2E3,Arya Stark,10,72
+S2E3,Balon Greyjoy,6,189
+S2E3,Bran Stark,3,79
+S2E3,Brienne of Tarth,6,85
+S2E3,Bronn,2,16
+S2E3,Catelyn Stark,8,98
+S2E3,Cersei Lannister,12,113
+S2E3,Colen Of Greenpools,1,23
+S2E3,Craster,1,24
+S2E3,Drowned Priest,4,55
+S2E3,Gendry,2,5
+S2E3,Gerard,2,13
+S2E3,Gilly,3,12
+S2E3,Goldcloak,1,5
+S2E3,Goldcloak #1,1,3
+S2E3,Goldcloak #2,1,2
+S2E3,Grand Maester Pycelle,18,162
+S2E3,Hodor,1,1
+S2E3,Hot Pie,2,6
+S2E3,Jaqen H'ghar,3,29
+S2E3,Jeor Mormont,9,87
+S2E3,Jon Snow,6,45
+S2E3,Lannister Soldier,1,3
+S2E3,Lommy Greenhands,3,12
+S2E3,Loras Tyrell,9,101
+S2E3,Lord Varys,9,199
+S2E3,Maester Luwin,6,169
+S2E3,Man,5,13
+S2E3,Margaery Tyrell,10,167
+S2E3,Myrcella Baratheon,2,31
+S2E3,Petyr Baelish,12,131
+S2E3,Polliver,7,39
+S2E3,Renly Baratheon,29,257
+S2E3,Renly Baratheon Crowd,1,1
+S2E3,Renly Baratheon Man,1,2
+S2E3,Samwell Tarly,5,92
+S2E3,Sansa Stark,15,155
+S2E3,Shae,20,129
+S2E3,Theon Greyjoy,17,222
+S2E3,Timett,1,5
+S2E3,Tommen Baratheon,2,12
+S2E3,Tyrion Lannister,57,733
+S2E3,Yara Greyjoy,10,86
+S2E3,Yoren,13,324
+S2E4,Arya Stark,8,45
+S2E4,Bronn,3,59
+S2E4,Catelyn Stark,15,114
+S2E4,Daenerys Targaryen,17,152
+S2E4,Daisy,3,6
+S2E4,Davos Seaworth,18,177
+S2E4,Gendry,5,25
+S2E4,Gregor Clegane,5,17
+S2E4,Hot Pie,5,33
+S2E4,Joffrey Baratheon,20,165
+S2E4,Jorah Mormont,3,46
+S2E4,Kovarro,3,24
+S2E4,Lancel Lannister,18,196
+S2E4,Lannister Guard,10,68
+S2E4,Lannister Soldier,3,16
+S2E4,Lannister Soldier #1,2,3
+S2E4,Lannister Soldier #2,1,3
+S2E4,Lannister Soldier #3,1,3
+S2E4,Margaery Tyrell,7,122
+S2E4,Melisandre,13,180
+S2E4,Meryn Trant,2,18
+S2E4,Old Woman Prisoner,2,27
+S2E4,Petyr Baelish,23,379
+S2E4,Polliver,2,32
+S2E4,Renly Baratheon,16,297
+S2E4,Rennick,10,85
+S2E4,Robb Stark,21,182
+S2E4,Roose Bolton,7,94
+S2E4,Ros,5,33
+S2E4,Sandor Clegane,2,19
+S2E4,Sansa Stark,2,29
+S2E4,Spice King,15,251
+S2E4,Stannis Baratheon,19,240
+S2E4,Stannis Baratheon Soldier,1,5
+S2E4,Stark Man,1,4
+S2E4,Stark Men,1,5
+S2E4,Stark Soldier,1,6
+S2E4,Talisa Maegyr,16,122
+S2E4,The Tickler,13,51
+S2E4,Tortured Man,1,5
+S2E4,Tortured Prisoner,11,68
+S2E4,Tyrion Lannister,27,548
+S2E4,Tywin Lannister,6,72
+S2E4,Wounded Lannister Soldier,7,37
+S2E4,Xaro Xhoan Daxos,6,103
+S2E5,Amory Lorch,1,22
+S2E5,Arya Stark,17,125
+S2E5,Black Lorren,3,83
+S2E5,Bran Stark,14,162
+S2E5,Brienne of Tarth,13,156
+S2E5,Bronn,13,230
+S2E5,Catelyn Stark,20,260
+S2E5,Cersei Lannister,10,109
+S2E5,Daenerys Targaryen,38,398
+S2E5,Dagmer Cleftjaw,6,62
+S2E5,Davos Seaworth,14,155
+S2E5,Doreah,4,38
+S2E5,Eddison Tollett,6,52
+S2E5,Gendry,3,6
+S2E5,Grenn,2,12
+S2E5,Hallyne,8,139
+S2E5,Harrenhal Woman,1,3
+S2E5,Hodor,1,1
+S2E5,Irri,4,44
+S2E5,Jaqen H'ghar,10,161
+S2E5,Jeor Mormont,11,106
+S2E5,Jon Snow,11,94
+S2E5,Jorah Mormont,16,268
+S2E5,King's Landing Crowd,1,1
+S2E5,King's Landing Girl,1,6
+S2E5,King's Landing Man,1,11
+S2E5,King's Landing Man #2,1,7
+S2E5,Kovarro,3,14
+S2E5,Lancel Lannister,11,108
+S2E5,Lannister Soldier,3,25
+S2E5,Loras Tyrell,7,55
+S2E5,Lordsport Man,1,3
+S2E5,Maester Luwin,3,22
+S2E5,Margaery Tyrell,8,61
+S2E5,Night's Watch Man,1,10
+S2E5,Osha,10,111
+S2E5,Petyr Baelish,8,120
+S2E5,Protester,3,46
+S2E5,Pyat Pree,3,71
+S2E5,Qartheen Woman,2,33
+S2E5,Qhorin Halfhand,10,225
+S2E5,Quaithe,3,65
+S2E5,Reginald Lannister,3,38
+S2E5,Renly Baratheon,7,130
+S2E5,Renly Baratheon Soldier #1,1,2
+S2E5,Renly Baratheon Soldier #2,1,4
+S2E5,Renly Baratheon Soldier #3,2,9
+S2E5,Renly Baratheon Soldier #4,1,1
+S2E5,Rodrik Cassel,4,51
+S2E5,Samwell Tarly,7,114
+S2E5,Stannis Baratheon,14,202
+S2E5,Stannis Baratheon Soldier,1,8
+S2E5,Theon Greyjoy,14,216
+S2E5,Tyrion Lannister,33,422
+S2E5,Tywin Lannister,12,232
+S2E5,Winterfell Shepherd,2,93
+S2E5,Xaro Xhoan Daxos,14,283
+S2E5,Yara Greyjoy,4,60
+S2E6,Amory Lorch,8,40
+S2E6,Arya Stark,15,74
+S2E6,Black Lorren,2,22
+S2E6,Bran Stark,22,112
+S2E6,Catelyn Stark,10,67
+S2E6,Cersei Lannister,1,49
+S2E6,Daenerys Targaryen,18,325
+S2E6,Dagmer Cleftjaw,3,26
+S2E6,Drennan,2,6
+S2E6,Farlen,2,26
+S2E6,High Septon,1,27
+S2E6,Ironborn Soldier,1,2
+S2E6,Jaqen H'ghar,2,38
+S2E6,Joffrey Baratheon,14,92
+S2E6,Jon Snow,27,114
+S2E6,King's Landing Crowd,1,2
+S2E6,King's Landing Man,3,9
+S2E6,King's Landing Man #1,4,22
+S2E6,King's Landing Man #2,3,13
+S2E6,King's Landing Man #3,2,6
+S2E6,King's Landing Man #4,1,3
+S2E6,King's Landing Man #5,1,3
+S2E6,King's Landing Man #6,1,5
+S2E6,King's Landing Man #7,1,1
+S2E6,King's Landing Woman,1,7
+S2E6,Kingsguard,2,7
+S2E6,Kingsguard #1,5,16
+S2E6,Kingsguard #2,5,15
+S2E6,Kingsguard #3,1,2
+S2E6,Lannister Guard,1,3
+S2E6,Maester Luwin,4,32
+S2E6,Meryn Trant,2,10
+S2E6,Osha,17,149
+S2E6,Petyr Baelish,15,155
+S2E6,Qhorin Halfhand,20,494
+S2E6,Quent,1,2
+S2E6,Rickon Stark,1,2
+S2E6,Robb Stark,21,199
+S2E6,Rodrik Cassel,10,99
+S2E6,Roose Bolton,7,124
+S2E6,Sandor Clegane,4,37
+S2E6,Sansa Stark,11,88
+S2E6,Shae,6,50
+S2E6,Spice King,16,339
+S2E6,Stark Soldier #1,1,2
+S2E6,Stark Soldier #2,1,2
+S2E6,Stark Soldier #3,1,4
+S2E6,Stark Soldier #4,1,2
+S2E6,Talisa Maegyr,10,128
+S2E6,Theon Greyjoy,45,573
+S2E6,Tyrion Lannister,12,124
+S2E6,Tywin Lannister,35,395
+S2E6,Xaro Xhoan Daxos,7,183
+S2E6,Ygritte,25,233
+S2E7,Alton Lannister,24,299
+S2E7,Arya Stark,16,100
+S2E7,Black Lorren,2,17
+S2E7,Bran Stark,4,46
+S2E7,Brienne of Tarth,5,51
+S2E7,Catelyn Stark,21,193
+S2E7,Cersei Lannister,21,462
+S2E7,Daenerys Targaryen,22,243
+S2E7,Dagmer Cleftjaw,2,18
+S2E7,Gregor Clegane,4,26
+S2E7,Handmaid,1,4
+S2E7,Hodor,2,2
+S2E7,Ironborn Man,2,12
+S2E7,Ironborn Man #1,2,18
+S2E7,Ironborn Man #2,1,2
+S2E7,Jacks,4,16
+S2E7,Jaime Lannister,31,636
+S2E7,Jon Snow,25,164
+S2E7,Jorah Mormont,15,105
+S2E7,Lannister Guard,1,4
+S2E7,Lannister Soldier,2,17
+S2E7,Maester Luwin,8,60
+S2E7,Osha,6,67
+S2E7,Pyat Pree,6,114
+S2E7,Quaithe,5,68
+S2E7,Rickard Karstark,11,108
+S2E7,Rickon Stark,3,17
+S2E7,Robb Stark,16,144
+S2E7,Roose Bolton,1,3
+S2E7,Sandor Clegane,4,72
+S2E7,Sansa Stark,13,106
+S2E7,Shae,4,23
+S2E7,Silk King,1,11
+S2E7,Spice King,3,77
+S2E7,Stark Guard,1,4
+S2E7,Stark Man #1,7,26
+S2E7,Stark Man #2,4,14
+S2E7,Stark Man #3,1,2
+S2E7,Stark Man #4,1,2
+S2E7,Stark Man #5,1,3
+S2E7,Stark Man #6,1,4
+S2E7,Talisa Maegyr,10,131
+S2E7,Theon Greyjoy,17,298
+S2E7,Torrhen Karstark,1,1
+S2E7,Tyrion Lannister,13,176
+S2E7,Tywin Lannister,23,463
+S2E7,Winterfell Shepherd,3,15
+S2E7,Winterfell Shepherd Child,1,2
+S2E7,Winterfell Shepherd Woman,1,6
+S2E7,Xaro Xhoan Daxos,9,221
+S2E7,Ygritte,29,604
+S2E8,Arya Stark,25,141
+S2E8,Brienne of Tarth,8,72
+S2E8,Bronn,13,220
+S2E8,Catelyn Stark,7,60
+S2E8,Cersei Lannister,21,283
+S2E8,Daenerys Targaryen,5,90
+S2E8,Dagmer Cleftjaw,3,49
+S2E8,Davos Seaworth,13,122
+S2E8,Eddison Tollett,7,81
+S2E8,Gendry,7,52
+S2E8,Grenn,7,48
+S2E8,Harrenhal Man,2,11
+S2E8,Hot Pie,9,121
+S2E8,Ironborn Man #1,1,2
+S2E8,Ironborn Man #2,1,3
+S2E8,Jaime Lannister,9,191
+S2E8,Jaqen H'ghar,14,131
+S2E8,Joffrey Baratheon,4,53
+S2E8,Jon Snow,6,28
+S2E8,Jorah Mormont,5,132
+S2E8,Kevan Lannister,4,81
+S2E8,Lannister Guard,2,13
+S2E8,Lannister Man,2,15
+S2E8,Lannister Soldier,1,4
+S2E8,Lord Varys,17,248
+S2E8,Maester Luwin,3,20
+S2E8,Osha,4,66
+S2E8,Qhorin Halfhand,7,94
+S2E8,Rattleshirt,6,51
+S2E8,Rickard Karstark,2,70
+S2E8,Robb Stark,29,471
+S2E8,Roose Bolton,5,66
+S2E8,Rorge,2,28
+S2E8,Ros,1,3
+S2E8,Samwell Tarly,9,63
+S2E8,Shae,6,44
+S2E8,Stannis Baratheon,13,305
+S2E8,Stannis Baratheon Soldier,2,4
+S2E8,Stark Messenger,1,10
+S2E8,Stark Soldier,1,3
+S2E8,Talisa Maegyr,21,489
+S2E8,Theon Greyjoy,16,145
+S2E8,Tyrion Lannister,56,667
+S2E8,Tywin Lannister,4,152
+S2E8,Wildling #1,1,4
+S2E8,Wildling #2,1,8
+S2E8,Yara Greyjoy,15,279
+S2E8,Ygritte,7,69
+S2E9,Armeca,4,19
+S2E9,Bronn,18,208
+S2E9,Captain of the Archers,14,32
+S2E9,Cersei Lannister,47,1030
+S2E9,Davos Seaworth,16,160
+S2E9,Grand Maester Pycelle,6,108
+S2E9,Handmaidens,1,7
+S2E9,Joffrey Baratheon,19,191
+S2E9,King's Landing Man,1,4
+S2E9,King's Landing Soldier,7,22
+S2E9,King's Landing Soldier #1,3,19
+S2E9,King's Landing Soldier #2,5,18
+S2E9,King's Landing Soldier #3,2,12
+S2E9,King's Landing Soldiers,2,5
+S2E9,Lancel Lannister,14,126
+S2E9,Lannister Men,1,36
+S2E9,Lannister Soldier,2,9
+S2E9,Lord Varys,13,223
+S2E9,Mandon Moore,1,20
+S2E9,Matt Berninger,1,96
+S2E9,Matthos Seaworth,13,143
+S2E9,Podrick Payne,2,5
+S2E9,Sandor Clegane,18,222
+S2E9,Sansa Stark,34,268
+S2E9,Shae,18,129
+S2E9,Stannis Baratheon,8,43
+S2E9,Stannis Baratheon Soldier,13,62
+S2E9,Stannis Baratheon Soldier #1,3,8
+S2E9,Stannis Baratheon Soldier #2,2,5
+S2E9,Stannis Baratheon Soldiers,5,12
+S2E9,Tommen Baratheon,4,14
+S2E9,Tyrion Lannister,46,570
+S2E9,Tywin Lannister,1,7
+S3E1,Barristan Selmy,2,53
+S3E1,Boat Commander,2,9
+S3E1,Bronn,18,188
+S3E1,Catelyn Stark,1,5
+S3E1,Cersei Lannister,22,316
+S3E1,Daenerys Targaryen,13,145
+S3E1,Davos Seaworth,23,199
+S3E1,Jeor Mormont,1,59
+S3E1,Joffrey Baratheon,7,101
+S3E1,Jon Snow,13,147
+S3E1,Jorah Mormont,10,168
+S3E1,King's Landing Guard #1,1,2
+S3E1,King's Landing Guard #2,1,2
+S3E1,Kraznys Mo Nakloz,11,164
+S3E1,Loras Tyrell,3,16
+S3E1,Mance Rayder,10,159
+S3E1,Margaery Tyrell,13,255
+S3E1,Margaery's Handmaiden,2,15
+S3E1,Melisandre,6,136
+S3E1,Meryn Trant,6,37
+S3E1,Mirelle,2,17
+S3E1,Missandei,14,221
+S3E1,Night's Watch Man,1,2
+S3E1,Orphan Kid,3,37
+S3E1,Petyr Baelish,5,105
+S3E1,Podrick Payne,5,31
+S3E1,Qyburn,3,4
+S3E1,Rattleshirt,1,11
+S3E1,Rickard Karstark,2,17
+S3E1,Robb Stark,6,72
+S3E1,Roose Bolton,4,49
+S3E1,Ros,6,68
+S3E1,Salladhor Saan,12,264
+S3E1,Samwell Tarly,1,1
+S3E1,Sansa Stark,11,142
+S3E1,Shae,11,70
+S3E1,Stannis Baratheon,4,22
+S3E1,Stannis Baratheon Soldier,1,2
+S3E1,Talisa Maegyr,3,15
+S3E1,Tormund Giantsbane,7,88
+S3E1,Tyrion Lannister,35,452
+S3E1,Tywin Lannister,9,324
+S3E1,Unsullied,1,5
+S3E1,Wildling Boy,3,3
+S3E1,Wildling Girl,2,8
+S3E1,Wildling Man #1,1,1
+S3E1,Wildling Man #2,1,1
+S3E1,Wildling Woman,2,5
+S3E1,Ygritte,7,122
+S3E10,Arya Stark,7,23
+S3E10,Balon Greyjoy,3,174
+S3E10,Barristan Selmy,1,8
+S3E10,Bran Stark,15,216
+S3E10,Cersei Lannister,14,243
+S3E10,Daenerys Targaryen,8,60
+S3E10,Davos Seaworth,46,723
+S3E10,Frey Man,2,10
+S3E10,Frey Men,3,51
+S3E10,Frey Soldier #1,9,105
+S3E10,Frey Soldier #2,5,41
+S3E10,Fruit Vendor,1,11
+S3E10,Gendry,23,172
+S3E10,Gilly,10,47
+S3E10,Grand Maester Pycelle,2,18
+S3E10,Handmaidens,1,3
+S3E10,Hodor,2,3
+S3E10,Ironborn Man,1,3
+S3E10,Jaime Lannister,1,1
+S3E10,Joffrey Baratheon,9,115
+S3E10,Jojen Reed,10,64
+S3E10,Jon Snow,3,53
+S3E10,Jorah Mormont,1,7
+S3E10,Lord Varys,10,289
+S3E10,Maester Aemon,7,106
+S3E10,Meera Reed,9,57
+S3E10,Melisandre,8,101
+S3E10,Missandei,2,27
+S3E10,Night's Watch Guard,1,2
+S3E10,Podrick Payne,2,21
+S3E10,Pypar,1,7
+S3E10,Ramsay Snow,6,144
+S3E10,Roose Bolton,8,90
+S3E10,Samwell Tarly,24,328
+S3E10,Sandor Clegane,3,25
+S3E10,Sansa Stark,11,123
+S3E10,Shae,9,95
+S3E10,Shireen Baratheon,6,65
+S3E10,Stannis Baratheon,13,174
+S3E10,Theon Greyjoy,6,17
+S3E10,Todder,1,2
+S3E10,Tyrion Lannister,39,472
+S3E10,Tywin Lannister,17,300
+S3E10,Walder Frey,8,199
+S3E10,Yara Greyjoy,4,74
+S3E10,Ygritte,1,5
+S3E10,Yunkai Child,1,1
+S3E10,Yunkai Crowd,3,17
+S3E10,Yunkai Man,1,1
+S3E2,Anguy,6,66
+S3E2,Arya Stark,20,155
+S3E2,Bran Stark,21,120
+S3E2,Brienne of Tarth,21,128
+S3E2,Brotherhood Men,3,3
+S3E2,Catelyn Stark,11,300
+S3E2,Cersei Lannister,8,110
+S3E2,Eddard Stark,1,10
+S3E2,Eddison Tollett,3,26
+S3E2,Gendry,8,69
+S3E2,Grenn,7,29
+S3E2,Handmaiden,1,2
+S3E2,Hodor,2,2
+S3E2,Hot Pie,4,54
+S3E2,Jaime Lannister,27,564
+S3E2,Jeor Mormont,4,40
+S3E2,Joffrey Baratheon,27,289
+S3E2,Jojen Reed,16,163
+S3E2,Jon Snow,6,19
+S3E2,King's Landing Guard,2,9
+S3E2,King's Landing Tailor,1,3
+S3E2,Locke,3,54
+S3E2,Loras Tyrell,5,48
+S3E2,Mance Rayder,8,159
+S3E2,Margaery Tyrell,24,322
+S3E2,Master Torturer,9,41
+S3E2,Meera Reed,4,31
+S3E2,Olenna Tyrell,14,452
+S3E2,Orell,2,8
+S3E2,Osha,14,153
+S3E2,Ramsay Snow,2,13
+S3E2,Rast,8,114
+S3E2,Rickard Karstark,8,77
+S3E2,Riverlands Traveller,4,60
+S3E2,Robb Stark,14,130
+S3E2,Roose Bolton,2,11
+S3E2,Samwell Tarly,4,17
+S3E2,Sandor Clegane,2,18
+S3E2,Sansa Stark,19,190
+S3E2,Shae,23,173
+S3E2,Stark Soldier,1,2
+S3E2,Talisa Maegyr,11,80
+S3E2,Theon Greyjoy,12,137
+S3E2,Thoros Of Myr,24,357
+S3E2,Tormund Giantsbane,1,4
+S3E2,Tyrell Servant,1,10
+S3E2,Tyrion Lannister,17,235
+S3E2,Ygritte,1,6
+S3E3,Anguy,3,33
+S3E3,Arya Stark,11,57
+S3E3,Barristan Selmy,7,92
+S3E3,Bolton Soldier,3,39
+S3E3,Bolton Soldier #1,1,5
+S3E3,Bolton Soldier #2,1,2
+S3E3,Bolton Soldier #3,1,5
+S3E3,Bolton Soldiers,1,32
+S3E3,Brienne of Tarth,9,103
+S3E3,Bronn,18,161
+S3E3,Brotherhood Man,2,7
+S3E3,Brynden Tully,8,187
+S3E3,Catelyn Stark,4,128
+S3E3,Cersei Lannister,1,11
+S3E3,Craster,6,161
+S3E3,Craster's Wife #1,1,10
+S3E3,Craster's Wife #2,1,9
+S3E3,Craster's Wife #3,1,16
+S3E3,Daenerys Targaryen,22,255
+S3E3,Eddison Tollett,1,10
+S3E3,Edmure Tully,11,122
+S3E3,Gendry,5,26
+S3E3,Gilly,1,6
+S3E3,Grand Maester Pycelle,2,14
+S3E3,Greizhen Mo Ullhor,1,4
+S3E3,Hot Pie,8,70
+S3E3,Jaime Lannister,23,395
+S3E3,Jeor Mormont,3,14
+S3E3,Jon Snow,3,21
+S3E3,Jorah Mormont,10,191
+S3E3,Kraznys Mo Nakloz,10,78
+S3E3,Locke,18,234
+S3E3,Lord Varys,2,46
+S3E3,Mance Rayder,7,166
+S3E3,Marei,1,9
+S3E3,Martyn Lannister,5,31
+S3E3,Master Torturer,3,24
+S3E3,Melisandre,9,91
+S3E3,Missandei,19,236
+S3E3,Orell,2,8
+S3E3,Petyr Baelish,12,143
+S3E3,Podrick Payne,10,37
+S3E3,Ramsay Snow,5,47
+S3E3,Robb Stark,11,150
+S3E3,Ros,1,6
+S3E3,Samwell Tarly,1,1
+S3E3,Sandor Clegane,3,42
+S3E3,Stannis Baratheon,9,78
+S3E3,Talisa Maegyr,5,46
+S3E3,The Hold Steady,1,150
+S3E3,Theon Greyjoy,6,50
+S3E3,Thoros Of Myr,4,44
+S3E3,Tormund Giantsbane,3,11
+S3E3,Tyrion Lannister,40,629
+S3E3,Tywin Lannister,6,144
+S3E3,Ygritte,1,6
+S3E4,Anguy,3,54
+S3E4,Arya Stark,5,53
+S3E4,Beric Dondarrion,9,170
+S3E4,Bolton Soldier,3,19
+S3E4,Bran Stark,4,15
+S3E4,Brienne of Tarth,7,109
+S3E4,Brotherhood Soldier,2,5
+S3E4,Catelyn Stark,4,32
+S3E4,Cersei Lannister,20,233
+S3E4,Craster,8,139
+S3E4,Daenerys Targaryen,7,85
+S3E4,Eddison Tollett,5,43
+S3E4,Gendry,2,7
+S3E4,Gilly,8,78
+S3E4,Grenn,6,75
+S3E4,Jaime Lannister,5,32
+S3E4,Jeor Mormont,10,102
+S3E4,Joffrey Baratheon,6,118
+S3E4,Jojen Reed,2,9
+S3E4,Karl Tanner,6,59
+S3E4,King's Landing Crowd,3,19
+S3E4,King's Landing Man,3,6
+S3E4,King's Landing Woman,2,4
+S3E4,Kraznys Mo Nakloz,5,31
+S3E4,Locke,3,51
+S3E4,Lord Varys,37,802
+S3E4,Margaery Tyrell,15,400
+S3E4,Missandei,3,80
+S3E4,Night's Watch Men,1,6
+S3E4,Olenna Tyrell,26,497
+S3E4,Ramsay Snow,12,182
+S3E4,Rast,12,186
+S3E4,Ros,11,105
+S3E4,Samwell Tarly,9,57
+S3E4,Sandor Clegane,15,226
+S3E4,Sansa Stark,10,79
+S3E4,Theon Greyjoy,12,243
+S3E4,Thoros Of Myr,7,67
+S3E4,Tyrell Lady,1,5
+S3E4,Tyrion Lannister,8,93
+S3E4,Tywin Lannister,10,118
+S3E5,Anguy,1,10
+S3E5,Arya Stark,22,148
+S3E5,Barristan Selmy,13,235
+S3E5,Beric Dondarrion,14,151
+S3E5,Bolton Crowd,1,2
+S3E5,Bolton Soldier #1,1,3
+S3E5,Bolton Soldier #2,1,4
+S3E5,Brienne of Tarth,9,51
+S3E5,Brotherhood Man,1,2
+S3E5,Brotherhood Men,3,26
+S3E5,Catelyn Stark,2,20
+S3E5,Cersei Lannister,14,161
+S3E5,Daenerys Targaryen,5,63
+S3E5,Davos Seaworth,10,76
+S3E5,Edmure Tully,3,55
+S3E5,Gendry,8,107
+S3E5,Grey Worm,3,47
+S3E5,Jaime Lannister,17,583
+S3E5,Jon Snow,19,148
+S3E5,Jorah Mormont,15,235
+S3E5,Karstark Lookout,2,26
+S3E5,Locke,3,19
+S3E5,Loras Tyrell,6,43
+S3E5,Margaery Tyrell,2,28
+S3E5,Martyn Lannister,2,12
+S3E5,Missandei,2,29
+S3E5,Olenna Tyrell,13,261
+S3E5,Olyvar,7,49
+S3E5,Orell,6,52
+S3E5,Petyr Baelish,16,173
+S3E5,Podrick Payne,1,3
+S3E5,Qyburn,6,87
+S3E5,Rickard Karstark,9,156
+S3E5,Robb Stark,19,344
+S3E5,Roose Bolton,5,88
+S3E5,Sandor Clegane,4,33
+S3E5,Sansa Stark,9,90
+S3E5,Selyse Baratheon,9,175
+S3E5,Shireen Baratheon,18,328
+S3E5,Stannis Baratheon,14,87
+S3E5,Talisa Maegyr,9,74
+S3E5,Thoros Of Myr,17,236
+S3E5,Tormund Giantsbane,4,44
+S3E5,Tyrion Lannister,26,266
+S3E5,Tywin Lannister,20,318
+S3E5,Willem Lannister,1,4
+S3E5,Ygritte,13,216
+S3E6,Anguy,10,120
+S3E6,Arya Stark,12,98
+S3E6,Beric Dondarrion,4,51
+S3E6,Black Walder Rivers,5,76
+S3E6,Bran Stark,8,71
+S3E6,Brienne of Tarth,2,33
+S3E6,Brotherhood Man,2,4
+S3E6,Brynden Tully,4,35
+S3E6,Catelyn Stark,1,16
+S3E6,Cersei Lannister,10,161
+S3E6,Edmure Tully,10,114
+S3E6,Gendry,2,25
+S3E6,Gilly,10,55
+S3E6,Handmaid,1,7
+S3E6,Hodor,1,1
+S3E6,Jaime Lannister,7,99
+S3E6,Jojen Reed,2,16
+S3E6,Jon Snow,9,37
+S3E6,Loras Tyrell,4,88
+S3E6,Lord Varys,6,95
+S3E6,Lothar Frey,4,84
+S3E6,Meera Reed,11,114
+S3E6,Melisandre,11,115
+S3E6,Olenna Tyrell,16,247
+S3E6,Orell,2,12
+S3E6,Osha,12,120
+S3E6,Petyr Baelish,6,225
+S3E6,Ramsay Snow,15,291
+S3E6,Rickon Stark,2,6
+S3E6,Robb Stark,10,168
+S3E6,Roose Bolton,10,165
+S3E6,Samwell Tarly,11,200
+S3E6,Sansa Stark,13,150
+S3E6,Shae,5,27
+S3E6,Theon Greyjoy,14,72
+S3E6,Thoros Of Myr,11,234
+S3E6,Tormund Giantsbane,5,65
+S3E6,Tyrion Lannister,14,297
+S3E6,Tywin Lannister,14,216
+S3E6,Ygritte,10,258
+S3E7,Anguy,4,18
+S3E7,Arya Stark,8,73
+S3E7,Barristan Selmy,2,21
+S3E7,Beric Dondarrion,9,67
+S3E7,Bolton Guard,1,3
+S3E7,Bolton Man,1,6
+S3E7,Bolton Men,1,40
+S3E7,Bran Stark,4,58
+S3E7,Brienne of Tarth,8,58
+S3E7,Bronn,8,150
+S3E7,Brotherhood Men,1,1
+S3E7,Brynden Tully,3,43
+S3E7,Catelyn Stark,4,30
+S3E7,Daenerys Targaryen,14,212
+S3E7,Edmure Tully,2,20
+S3E7,Gendry,8,57
+S3E7,Hodor,1,1
+S3E7,Jaime Lannister,34,373
+S3E7,Joffrey Baratheon,13,137
+S3E7,Jojen Reed,6,60
+S3E7,Jon Snow,28,293
+S3E7,Jorah Mormont,5,67
+S3E7,Locke,8,117
+S3E7,Margaery Tyrell,11,229
+S3E7,Meera Reed,1,3
+S3E7,Melisandre,8,98
+S3E7,Missandei,1,59
+S3E7,Myranda,12,82
+S3E7,Orell,8,179
+S3E7,Osha,12,369
+S3E7,Qyburn,16,165
+S3E7,Ramsay Snow,2,65
+S3E7,Razdal Mo Eraz,7,185
+S3E7,Robb Stark,14,107
+S3E7,Roose Bolton,2,24
+S3E7,Sandor Clegane,1,11
+S3E7,Sansa Stark,11,123
+S3E7,Shae,14,122
+S3E7,Steelshanks Walton,6,48
+S3E7,Talisa Maegyr,13,86
+S3E7,Theon Greyjoy,7,32
+S3E7,Thoros Of Myr,3,27
+S3E7,Tormund Giantsbane,1,57
+S3E7,Tyrion Lannister,21,191
+S3E7,Tywin Lannister,14,188
+S3E7,Violet,10,94
+S3E7,Ygritte,30,287
+S3E8,Arya Stark,6,30
+S3E8,Barristan Selmy,7,54
+S3E8,Cersei Lannister,10,228
+S3E8,Daario Naharis,21,242
+S3E8,Daenerys Targaryen,37,350
+S3E8,Davos Seaworth,12,266
+S3E8,Gendry,12,114
+S3E8,Gilly,17,90
+S3E8,Grey Worm,1,7
+S3E8,High Septon,2,47
+S3E8,Joffrey Baratheon,8,157
+S3E8,Jorah Mormont,6,65
+S3E8,Loras Tyrell,1,5
+S3E8,Margaery Tyrell,6,48
+S3E8,Melisandre,17,372
+S3E8,Mero,17,269
+S3E8,Missandei,6,54
+S3E8,Olenna Tyrell,1,57
+S3E8,Prendahl Na Ghezn,7,57
+S3E8,Samwell Tarly,17,170
+S3E8,Sandor Clegane,7,215
+S3E8,Sansa Stark,14,64
+S3E8,Shae,1,4
+S3E8,Stannis Baratheon,18,278
+S3E8,Tyrion Lannister,23,412
+S3E8,Tywin Lannister,7,91
+S3E9,Arya Stark,12,150
+S3E9,Barristan Selmy,2,18
+S3E9,Bran Stark,27,318
+S3E9,Brynden Tully,5,49
+S3E9,Catelyn Stark,16,183
+S3E9,Daario Naharis,9,146
+S3E9,Daenerys Targaryen,5,40
+S3E9,Edmure Tully,3,45
+S3E9,Frey Guard,4,37
+S3E9,Frey Man,2,11
+S3E9,Frey Wedding Guests,3,18
+S3E9,Gilly,4,40
+S3E9,Grey Worm,1,4
+S3E9,Hodor,7,7
+S3E9,Hog Farmer,2,34
+S3E9,Jojen Reed,16,122
+S3E9,Jon Snow,6,50
+S3E9,Jorah Mormont,8,126
+S3E9,Lothar Frey,1,8
+S3E9,Meera Reed,7,42
+S3E9,Merry,1,2
+S3E9,Old Man,5,28
+S3E9,Orell,10,96
+S3E9,Osha,16,175
+S3E9,Rickon Stark,7,61
+S3E9,Robb Stark,19,312
+S3E9,Roose Bolton,5,58
+S3E9,Roslin Frey,2,33
+S3E9,Samwell Tarly,3,104
+S3E9,Sandor Clegane,18,165
+S3E9,Septon,1,38
+S3E9,Stark Man,1,5
+S3E9,Talisa Maegyr,9,104
+S3E9,Tormund Giantsbane,12,85
+S3E9,Walder Frey,11,454
+S3E9,Wildling #1,1,4
+S3E9,Wildling #2,1,10
+S3E9,Ygritte,4,39
+S4E1,Alliser Thorne,8,97
+S4E1,Arya Stark,16,161
+S4E1,Barristan Selmy,3,24
+S4E1,Brienne of Tarth,9,114
+S4E1,Bronn,12,124
+S4E1,Cersei Lannister,23,227
+S4E1,Clegane Soldier #1,4,14
+S4E1,Clegane Soldier #2,1,2
+S4E1,Daario Naharis,9,134
+S4E1,Daenerys Targaryen,18,174
+S4E1,Dontos Hollard,7,135
+S4E1,Ellaria Sand,10,51
+S4E1,Grey Worm,1,7
+S4E1,Handmaid,1,16
+S4E1,Innkeeper,1,5
+S4E1,Jaime Lannister,55,517
+S4E1,Janos Slynt,7,52
+S4E1,Joffrey Baratheon,8,133
+S4E1,Jon Snow,14,304
+S4E1,Jorah Mormont,2,23
+S4E1,Lord Blackmont,3,36
+S4E1,Maester Aemon,5,55
+S4E1,Marei,1,7
+S4E1,Margaery Tyrell,5,46
+S4E1,Meryn Trant,2,23
+S4E1,Missandei,5,29
+S4E1,Morgan,5,67
+S4E1,Morgan's Friend,2,11
+S4E1,Oberyn Martell,26,431
+S4E1,Olenna Tyrell,5,139
+S4E1,Olyvar,8,49
+S4E1,Podrick Payne,2,33
+S4E1,Polliver,14,310
+S4E1,Qyburn,4,30
+S4E1,Samwell Tarly,2,31
+S4E1,Sandor Clegane,25,236
+S4E1,Sansa Stark,13,136
+S4E1,Ser Endrew Tarth,1,2
+S4E1,Shae,17,124
+S4E1,Styr,4,118
+S4E1,Tormund Giantsbane,7,107
+S4E1,Tyrion Lannister,43,557
+S4E1,Tywin Lannister,21,225
+S4E1,Ygritte,5,41
+S4E1,Yunkai Crowd,1,3
+S4E10,Alliser Thorne,1,6
+S4E10,Arya Stark,25,125
+S4E10,Barristan Selmy,1,19
+S4E10,Bran Stark,8,33
+S4E10,Brienne of Tarth,30,234
+S4E10,Cersei Lannister,29,455
+S4E10,Daenerys Targaryen,13,149
+S4E10,Davos Seaworth,3,38
+S4E10,Eddison Tollett,1,6
+S4E10,Fennesz,9,222
+S4E10,Grand Maester Pycelle,7,117
+S4E10,Grey Worm,1,16
+S4E10,Hodor,2,4
+S4E10,Jaime Lannister,17,147
+S4E10,Janos Slynt,1,6
+S4E10,Jojen Reed,4,16
+S4E10,Jon Snow,28,271
+S4E10,Leaf,3,46
+S4E10,Lord Varys,1,14
+S4E10,Maester Aemon,2,57
+S4E10,Mance Rayder,21,483
+S4E10,Meera Reed,6,33
+S4E10,Meereenese Man,2,38
+S4E10,Missandei,5,60
+S4E10,Night's Watch Men,1,6
+S4E10,Olly,1,6
+S4E10,Podrick Payne,7,38
+S4E10,Qyburn,7,53
+S4E10,Samwell Tarly,1,6
+S4E10,Sandor Clegane,13,298
+S4E10,Shae,1,3
+S4E10,Stannis Baratheon,7,75
+S4E10,Stannis Baratheon Soldier #1,1,3
+S4E10,Stannis Baratheon Soldier #2,1,4
+S4E10,Ternesio Terys,8,49
+S4E10,Three-Eyed Raven,5,77
+S4E10,Tormund Giantsbane,10,99
+S4E10,Tyrion Lannister,16,101
+S4E10,Tywin Lannister,21,307
+S4E10,Wildling,1,2
+S4E2,Axell Florent,3,13
+S4E2,Bolton Guard,1,12
+S4E2,Bolton Woman,1,4
+S4E2,Bran Stark,6,28
+S4E2,Brienne of Tarth,9,79
+S4E2,Bronn,10,151
+S4E2,Cersei Lannister,24,295
+S4E2,Davos Seaworth,4,47
+S4E2,Dontos Hollard,2,13
+S4E2,Ellaria Sand,2,15
+S4E2,Grand Maester Pycelle,7,61
+S4E2,High Septon,1,34
+S4E2,Hodor,1,1
+S4E2,Jaime Lannister,18,203
+S4E2,Joffrey Baratheon,22,330
+S4E2,Jojen Reed,1,61
+S4E2,King Balon Greyjoy Dwarf,5,21
+S4E2,King Joffrey Baratheon Dwarf,4,18
+S4E2,King Renly Baratheon Dwarf,3,14
+S4E2,King Robb Stark Dwarf,5,26
+S4E2,King Stannis Baratheon Dwarf,3,8
+S4E2,Locke,4,30
+S4E2,Loras Tyrell,5,18
+S4E2,Lord Varys,5,121
+S4E2,Mace Tyrell,2,39
+S4E2,Maid,1,2
+S4E2,Margaery Tyrell,8,99
+S4E2,Meera Reed,3,38
+S4E2,Melisandre,14,189
+S4E2,Musician,1,18
+S4E2,Myranda,7,33
+S4E2,Oberyn Martell,8,150
+S4E2,Olenna Tyrell,9,242
+S4E2,Podrick Payne,3,11
+S4E2,Ramsay Snow,28,305
+S4E2,Roose Bolton,16,230
+S4E2,Sansa Stark,2,9
+S4E2,Selyse Baratheon,12,169
+S4E2,Shae,12,89
+S4E2,Shireen Baratheon,8,44
+S4E2,Stannis Baratheon,9,57
+S4E2,Tansy,3,14
+S4E2,Theon Greyjoy,6,31
+S4E2,Three-Eyed Raven,2,7
+S4E2,Tyrion Lannister,43,566
+S4E2,Tywin Lannister,13,127
+S4E2,Walda Frey,1,1
+S4E2,Wedding Guest,1,6
+S4E2,Wedding Guest #1,1,1
+S4E2,Wedding Guest #2,1,1
+S4E2,Wedding Guest #3,1,2
+S4E2,Wedding Guest #4,1,1
+S4E3,Alliser Thorne,7,83
+S4E3,Arya Stark,17,129
+S4E3,Barristan Selmy,3,24
+S4E3,Cersei Lannister,12,143
+S4E3,Daario Naharis,3,59
+S4E3,Daenerys Targaryen,11,196
+S4E3,Davos Seaworth,21,320
+S4E3,Dontos Hollard,6,44
+S4E3,Eddison Tollett,3,24
+S4E3,Ellaria Sand,5,39
+S4E3,Farm Man,1,2
+S4E3,Farmer Hamlet,11,377
+S4E3,Gilly,22,118
+S4E3,Grenn,4,30
+S4E3,Grey Worm,1,11
+S4E3,Guymon,2,23
+S4E3,High Septon,1,6
+S4E3,Jaime Lannister,10,69
+S4E3,Janos Slynt,2,17
+S4E3,Jon Snow,5,145
+S4E3,Jorah Mormont,3,51
+S4E3,Maester Aemon,1,35
+S4E3,Margaery Tyrell,5,63
+S4E3,Missandei,2,36
+S4E3,Mole's Town Madam,3,20
+S4E3,Mole's Town Whore,6,24
+S4E3,Night's Watch Men,2,3
+S4E3,Night's Watchman,1,12
+S4E3,Oberyn Martell,29,341
+S4E3,Olenna Tyrell,5,177
+S4E3,Olly,3,9
+S4E3,Olly's Mother,1,3
+S4E3,Olyvar,5,36
+S4E3,Othell Yarwyck,2,36
+S4E3,Oznak Zo Pahl,1,57
+S4E3,Petyr Baelish,10,211
+S4E3,Podrick Payne,24,212
+S4E3,Pypar,3,19
+S4E3,Samwell Tarly,23,230
+S4E3,Sandor Clegane,23,225
+S4E3,Sansa Stark,7,31
+S4E3,Shireen Baratheon,11,99
+S4E3,Stannis Baratheon,10,124
+S4E3,Styr,2,45
+S4E3,Tommen Baratheon,13,40
+S4E3,Tyrion Lannister,25,435
+S4E3,Tywin Lannister,36,706
+S4E4,Alliser Thorne,6,109
+S4E4,Barristan Selmy,1,27
+S4E4,Bran Stark,9,59
+S4E4,Brienne of Tarth,7,58
+S4E4,Bronn,7,169
+S4E4,Cersei Lannister,10,173
+S4E4,Craster's Wife #1,1,4
+S4E4,Craster's Wife #2,1,6
+S4E4,Craster's Wives,2,45
+S4E4,Daenerys Targaryen,5,36
+S4E4,Elder Meereen Slave,4,38
+S4E4,Great Master #1,1,1
+S4E4,Grenn,1,15
+S4E4,Grey Worm,15,124
+S4E4,Hodor,3,9
+S4E4,Jaime Lannister,38,427
+S4E4,Janos Slynt,2,55
+S4E4,Jojen Reed,2,4
+S4E4,Jon Snow,17,361
+S4E4,Jorah Mormont,1,2
+S4E4,Karl Tanner,14,362
+S4E4,Locke,7,109
+S4E4,Margaery Tyrell,15,173
+S4E4,Meera Reed,13,83
+S4E4,Meereenese Slaves,1,9
+S4E4,Missandei,8,83
+S4E4,Mossador,3,23
+S4E4,Olenna Tyrell,6,284
+S4E4,Olly,2,13
+S4E4,Petyr Baelish,11,216
+S4E4,Podrick Payne,2,17
+S4E4,Rast,6,41
+S4E4,Samwell Tarly,7,96
+S4E4,Sansa Stark,11,104
+S4E4,Sissy,3,15
+S4E4,Tommen Baratheon,8,86
+S4E4,Tyrion Lannister,13,182
+S4E4,Valyrian Slave,2,19
+S4E5,Arya Stark,17,115
+S4E5,Barristan Selmy,5,61
+S4E5,Bran Stark,17,86
+S4E5,Brienne of Tarth,16,190
+S4E5,Cersei Lannister,44,502
+S4E5,Daario Naharis,3,14
+S4E5,Daenerys Targaryen,10,120
+S4E5,Donnel Waynwood,3,12
+S4E5,Eddison Tollett,4,14
+S4E5,Grand Maester Pycelle,2,6
+S4E5,Grenn,6,41
+S4E5,High Septon,1,91
+S4E5,Hodor,8,22
+S4E5,Jaime Lannister,1,4
+S4E5,Jojen Reed,15,140
+S4E5,Jon Snow,8,84
+S4E5,Jorah Mormont,8,160
+S4E5,Karl Tanner,8,181
+S4E5,King's Landing Crowd,1,4
+S4E5,King's Landing Man #1,1,2
+S4E5,King's Landing Man #2,1,2
+S4E5,Locke,10,115
+S4E5,Lord Varys,2,6
+S4E5,Lysa Arryn,33,659
+S4E5,Mace Tyrell,2,6
+S4E5,Margaery Tyrell,12,118
+S4E5,Meera Reed,4,17
+S4E5,Morag,2,33
+S4E5,Night's Watch Man,2,4
+S4E5,Night's Watch Man #1,2,23
+S4E5,Night's Watch Man #2,1,8
+S4E5,Oberyn Martell,16,124
+S4E5,Petyr Baelish,13,218
+S4E5,Podrick Payne,16,138
+S4E5,Rast,2,11
+S4E5,Robin Arryn,5,47
+S4E5,Sandor Clegane,17,206
+S4E5,Sansa Stark,28,221
+S4E5,Tywin Lannister,18,281
+S4E5,Vale Knight #1,1,2
+S4E5,Vale Knight #2,1,2
+S4E6,Bathhouse Prostitute,1,5
+S4E6,Bolton Guard,2,13
+S4E6,Bolton Man,2,4
+S4E6,Cersei Lannister,8,142
+S4E6,Daenerys Targaryen,14,160
+S4E6,Davos Seaworth,18,313
+S4E6,First Mate,2,10
+S4E6,Grand Maester Pycelle,8,125
+S4E6,Hizdahr zo Loraq,9,222
+S4E6,Ironborn in Skiff,1,3
+S4E6,Jaime Lannister,15,222
+S4E6,King's Landing Guard,1,3
+S4E6,King's Landing Man,1,1
+S4E6,Lhara,2,8
+S4E6,Lord Varys,25,324
+S4E6,Mace Tyrell,5,81
+S4E6,Manservant,1,11
+S4E6,Meryn Trant,1,85
+S4E6,Missandei,5,95
+S4E6,Myranda,2,3
+S4E6,Oberyn Martell,19,260
+S4E6,Ramsay Snow,8,128
+S4E6,Salladhor Saan,7,202
+S4E6,Shae,12,272
+S4E6,Stannis Baratheon,7,42
+S4E6,Theon Greyjoy,11,73
+S4E6,Tommen Baratheon,1,77
+S4E6,Tycho Nestoris,16,258
+S4E6,Tyrion Lannister,22,300
+S4E6,Tywin Lannister,45,475
+S4E6,Yara Greyjoy,14,207
+S4E7,Alliser Thorne,12,185
+S4E7,Arya Stark,12,127
+S4E7,Brienne of Tarth,20,191
+S4E7,Bronn,20,305
+S4E7,Cersei Lannister,2,23
+S4E7,Daario Naharis,9,144
+S4E7,Daenerys Targaryen,23,312
+S4E7,Dying Man,1,42
+S4E7,Gregor Clegane,1,4
+S4E7,Grenn,1,8
+S4E7,Hot Pie,14,342
+S4E7,Jaime Lannister,10,114
+S4E7,Janos Slynt,1,17
+S4E7,Jon Snow,10,80
+S4E7,Jorah Mormont,14,181
+S4E7,King's Landing Guard #1,1,4
+S4E7,King's Landing Guard #2,1,4
+S4E7,King's Landing Prisoner,1,4
+S4E7,Lysa Arryn,9,171
+S4E7,Melisandre,11,275
+S4E7,Night's Watch Man #1,1,2
+S4E7,Night's Watch Man #2,1,4
+S4E7,Night's Watch Man #3,1,6
+S4E7,Night's Watch Man #4,1,3
+S4E7,Oberyn Martell,10,407
+S4E7,Old Man,8,63
+S4E7,Othell Yarwyck,2,2
+S4E7,Petyr Baelish,11,157
+S4E7,Podrick Payne,11,98
+S4E7,Robin Arryn,14,179
+S4E7,Rorge,3,30
+S4E7,Samwell Tarly,1,3
+S4E7,Sandor Clegane,15,260
+S4E7,Sansa Stark,27,197
+S4E7,Selyse Baratheon,9,115
+S4E7,Tyrion Lannister,38,600
+S4E8,Adrack Humble,1,14
+S4E8,Anya Waynwood,13,165
+S4E8,Arya Stark,11,122
+S4E8,Barristan Selmy,7,41
+S4E8,Black Jack Bulwer,1,7
+S4E8,Daenerys Targaryen,24,281
+S4E8,Donnel Waynwood,2,17
+S4E8,Eddison Tollett,6,94
+S4E8,Ellaria Sand,3,20
+S4E8,Gilly,5,18
+S4E8,Grand Maester Pycelle,1,46
+S4E8,Gregor Clegane,2,21
+S4E8,Grenn,5,54
+S4E8,Grey Worm,9,102
+S4E8,Ironborn Guard,1,5
+S4E8,Ironborn Soldiers,1,6
+S4E8,Jaime Lannister,15,96
+S4E8,Jon Snow,3,29
+S4E8,Jorah Mormont,21,136
+S4E8,Kegs,1,4
+S4E8,Little Bird,1,2
+S4E8,Missandei,16,85
+S4E8,Mole's Town Whore,6,112
+S4E8,Night's Watch Man,1,3
+S4E8,Oberyn Martell,9,199
+S4E8,Petyr Baelish,24,430
+S4E8,Pypar,2,42
+S4E8,Ralf Kenning,9,94
+S4E8,Ramsay Snow,15,204
+S4E8,Robin Arryn,2,28
+S4E8,Roose Bolton,4,91
+S4E8,Samwell Tarly,5,36
+S4E8,Sandor Clegane,11,107
+S4E8,Sansa Stark,12,424
+S4E8,Theon Greyjoy,15,193
+S4E8,Tyrion Lannister,20,655
+S4E8,Tywin Lannister,1,29
+S4E8,Vance Corbray,1,8
+S4E8,Yohn Royce,16,226
+S4E9,Alliser Thorne,15,248
+S4E9,Cooper,2,62
+S4E9,Donnel Hill,5,74
+S4E9,Eddison Tollett,6,56
+S4E9,Gilly,12,129
+S4E9,Grenn,11,169
+S4E9,Janos Slynt,9,69
+S4E9,Jon Snow,42,463
+S4E9,Maester Aemon,10,346
+S4E9,Night's Watch Man #1,2,6
+S4E9,Night's Watch Man #10,1,3
+S4E9,Night's Watch Man #11,1,2
+S4E9,Night's Watch Man #12,1,4
+S4E9,Night's Watch Man #13,1,3
+S4E9,Night's Watch Man #14,1,2
+S4E9,Night's Watch Man #15,1,3
+S4E9,Night's Watch Man #2,2,7
+S4E9,Night's Watch Man #3,2,15
+S4E9,Night's Watch Man #4,1,1
+S4E9,Night's Watch Man #5,1,1
+S4E9,Night's Watch Man #6,1,7
+S4E9,Night's Watch Man #7,1,5
+S4E9,Night's Watch Man #8,1,4
+S4E9,Night's Watch Man #9,1,4
+S4E9,Night's Watch Men,5,8
+S4E9,Pypar,12,104
+S4E9,Samwell Tarly,60,688
+S4E9,Styr,6,56
+S4E9,Thenn Warg,1,2
+S4E9,Tormund Giantsbane,9,93
+S4E9,Wildlings,1,7
+S4E9,Ygritte,13,232
+S5E1,Alliser Thorne,1,14
+S5E1,Barristan Selmy,4,35
+S5E1,Brienne of Tarth,6,113
+S5E1,Cersei Lannister,16,223
+S5E1,Daario Naharis,7,239
+S5E1,Daenerys Targaryen,22,259
+S5E1,Davos Seaworth,4,50
+S5E1,Gilly,5,28
+S5E1,Grand Maester Pycelle,1,13
+S5E1,Grey Worm,4,18
+S5E1,High Septon,2,33
+S5E1,Hizdahr zo Loraq,9,150
+S5E1,Jaime Lannister,3,68
+S5E1,Jon Snow,28,337
+S5E1,Kevan Lannister,3,37
+S5E1,Lancel Lannister,7,83
+S5E1,Loras Tyrell,11,159
+S5E1,Lord Varys,21,389
+S5E1,Maggy,10,93
+S5E1,Mance Rayder,13,233
+S5E1,Margaery Tyrell,10,55
+S5E1,Melara Hetherspoon,7,35
+S5E1,Melisandre,4,94
+S5E1,Missandei,3,51
+S5E1,Mossador,2,13
+S5E1,Olly,1,3
+S5E1,Olyvar,6,49
+S5E1,Petyr Baelish,10,112
+S5E1,Podrick Payne,6,53
+S5E1,Royce Squire,1,2
+S5E1,Samwell Tarly,5,80
+S5E1,Sansa Stark,6,60
+S5E1,Stannis Baratheon,11,177
+S5E1,Strong Sam Stone,2,14
+S5E1,Tyrion Lannister,21,246
+S5E1,Vala,2,8
+S5E1,White Rat,1,5
+S5E1,Yohn Royce,6,59
+S5E1,Young Cersei Lannister,13,103
+S5E10,Alliser Thorne,3,25
+S5E10,Arya Stark,5,93
+S5E10,Bolton Soldier,1,3
+S5E10,Bowen Marsh,1,3
+S5E10,Brienne of Tarth,3,86
+S5E10,Bronn,2,18
+S5E10,Cersei Lannister,17,197
+S5E10,Daario Naharis,14,234
+S5E10,Daenerys Targaryen,1,54
+S5E10,Davos Seaworth,4,45
+S5E10,Doran Martell,1,7
+S5E10,Ellaria Sand,1,12
+S5E10,Faith Militant,1,1
+S5E10,Grey Worm,6,38
+S5E10,High Sparrow,17,250
+S5E10,Jaime Lannister,10,205
+S5E10,Jaqen H'ghar,5,80
+S5E10,Jon Snow,20,205
+S5E10,Jorah Mormont,8,92
+S5E10,King's Landing Crowd,7,28
+S5E10,King's Landing Flasher #1,1,11
+S5E10,King's Landing Flasher #2,1,2
+S5E10,King's Landing Woman,1,9
+S5E10,Lord Varys,5,96
+S5E10,Melisandre,2,45
+S5E10,Meryn Trant,1,13
+S5E10,Missandei,4,46
+S5E10,Myranda,2,94
+S5E10,Myrcella Baratheon,7,56
+S5E10,Night's Watch Man #1,1,3
+S5E10,Night's Watch Man #2,1,3
+S5E10,Olly,3,35
+S5E10,Othell Yarwyck,1,3
+S5E10,Podrick Payne,2,23
+S5E10,Qyburn,1,71
+S5E10,Ramsay Snow,2,18
+S5E10,Samwell Tarly,12,200
+S5E10,Sansa Stark,1,27
+S5E10,Septa Unella,8,81
+S5E10,Stannis Baratheon,12,70
+S5E10,Stannis Baratheon General,8,49
+S5E10,Stannis Baratheon Soldier #1,3,7
+S5E10,Stannis Baratheon Soldier #2,1,1
+S5E10,Stannis Baratheon Soldier #3,1,2
+S5E10,Stannis Baratheon Soldier #4,1,4
+S5E10,Stannis Baratheon Soldier #5,1,3
+S5E10,Stannis Baratheon Soldier #6,1,4
+S5E10,The Waif,4,23
+S5E10,Theon Greyjoy,2,7
+S5E10,Tyene Sand,2,16
+S5E10,Tyrion Lannister,19,217
+S5E2,Alliser Thorne,2,94
+S5E2,Areo Hotah,1,8
+S5E2,Arya Stark,11,107
+S5E2,Barristan Selmy,11,193
+S5E2,Brienne of Tarth,24,198
+S5E2,Bronn,17,154
+S5E2,Cersei Lannister,27,407
+S5E2,Daario Naharis,6,132
+S5E2,Daenerys Targaryen,18,147
+S5E2,Davos Seaworth,2,37
+S5E2,Doran Martell,7,97
+S5E2,Dwarf Hunter #1,1,6
+S5E2,Dwarf Hunter #2,1,6
+S5E2,Ellaria Sand,8,132
+S5E2,Eyrie Guard #1,3,11
+S5E2,Eyrie Guard #2,1,6
+S5E2,Eyrie Guard #3,1,2
+S5E2,Eyrie Knight,2,8
+S5E2,Faceless Man,3,15
+S5E2,Gilly,9,142
+S5E2,Grand Maester Pycelle,3,45
+S5E2,Grey Worm,3,12
+S5E2,Hizdahr zo Loraq,5,60
+S5E2,Inn Waitress,2,3
+S5E2,Jaime Lannister,23,155
+S5E2,Janos Slynt,4,77
+S5E2,Jaqen H'ghar,2,18
+S5E2,Jon Snow,12,176
+S5E2,Kevan Lannister,7,123
+S5E2,Lollys Stokeworth,7,115
+S5E2,Lord Varys,13,142
+S5E2,Mace Tyrell,3,28
+S5E2,Maester Aemon,5,60
+S5E2,Meereenese Crowd,4,17
+S5E2,Meryn Trant,2,22
+S5E2,Mossador,11,235
+S5E2,Night's Watch Men,2,18
+S5E2,Othell Yarwyck,1,7
+S5E2,Petyr Baelish,14,196
+S5E2,Podrick Payne,14,98
+S5E2,Qyburn,2,24
+S5E2,Samwell Tarly,12,236
+S5E2,Sansa Stark,10,78
+S5E2,Selyse Baratheon,5,52
+S5E2,Shadow Tower Brother,1,39
+S5E2,Shireen Baratheon,12,113
+S5E2,Son of the Harpy,1,21
+S5E2,Stannis Baratheon,9,165
+S5E2,Street Tough #1,2,21
+S5E2,Street Tough #2,1,3
+S5E2,Ternesio Terys,4,64
+S5E2,Trystane Martell,1,3
+S5E2,Tyrion Lannister,14,185
+S5E3,Arya Stark,14,110
+S5E3,Beggar Woman,1,7
+S5E3,Bolton Guard #1,1,2
+S5E3,Bolton Guard #2,1,4
+S5E3,Bolton Guard #3,1,3
+S5E3,Brienne of Tarth,15,459
+S5E3,Brothel Guard,1,8
+S5E3,Cersei Lannister,28,373
+S5E3,Clea,8,47
+S5E3,Davos Seaworth,7,158
+S5E3,Despondent Man,1,2
+S5E3,Driver,1,1
+S5E3,Grand Maester Pycelle,1,8
+S5E3,High Septon,10,167
+S5E3,High Sparrow,7,184
+S5E3,Janos Slynt,6,150
+S5E3,Jaqen H'ghar,10,106
+S5E3,Jon Snow,24,374
+S5E3,Jorah Mormont,1,6
+S5E3,King's Landing Crowd,4,17
+S5E3,King's Landing Man #1,2,3
+S5E3,King's Landing Man #2,2,5
+S5E3,King's Landing Man #3,1,4
+S5E3,King's Landing Woman,1,4
+S5E3,Lancel Lannister,2,21
+S5E3,Lord Varys,10,81
+S5E3,Mace Tyrell,1,10
+S5E3,Margaery Tyrell,22,368
+S5E3,Meryn Trant,1,10
+S5E3,Night's Watch Man,1,1
+S5E3,Night's Watch Men,1,4
+S5E3,Old Woman,2,20
+S5E3,Olly,2,30
+S5E3,Olyvar,5,37
+S5E3,Petyr Baelish,20,384
+S5E3,Podrick Payne,15,238
+S5E3,Priestess,2,39
+S5E3,Qyburn,8,43
+S5E3,Ramsay Snow,10,116
+S5E3,Red Priestess,2,25
+S5E3,Roose Bolton,17,345
+S5E3,Samwell Tarly,2,16
+S5E3,Sansa Stark,12,86
+S5E3,Sellsword,3,15
+S5E3,Stannis Baratheon,12,184
+S5E3,The Mother of Dragons,1,2
+S5E3,The Waif,6,45
+S5E3,Tommen Baratheon,19,218
+S5E3,Tyrion Lannister,24,344
+S5E3,Volantene Crowd,2,13
+S5E3,Volantene Whore #1,1,5
+S5E3,Volantene Whore #2,1,6
+S5E3,Volantene Whore #3,1,3
+S5E4,Barristan Selmy,8,131
+S5E4,Bronn,34,480
+S5E4,Brothel Client,1,9
+S5E4,Cersei Lannister,20,314
+S5E4,Daario Naharis,3,23
+S5E4,Daenerys Targaryen,12,92
+S5E4,Ellaria Sand,5,70
+S5E4,Faith Militant,1,9
+S5E4,Faith Militant #1,2,22
+S5E4,Faith Militant #2,1,2
+S5E4,Grand Maester Pycelle,1,7
+S5E4,High Sparrow,9,86
+S5E4,Hizdahr zo Loraq,4,117
+S5E4,Jaime Lannister,30,219
+S5E4,Jon Snow,12,93
+S5E4,Jorah Mormont,6,31
+S5E4,King's Landing Man #1,1,1
+S5E4,King's Landing Man #2,1,3
+S5E4,King's Landing Man #3,1,4
+S5E4,King's Landing Man #4,1,1
+S5E4,King's Landing Merchant,1,4
+S5E4,King's Landing Wine Merchant,1,4
+S5E4,King's Landing Woman,1,2
+S5E4,Kingsguard,3,21
+S5E4,Lancel Lannister,2,15
+S5E4,Lead Dornish Guard,8,30
+S5E4,Loras Tyrell,2,12
+S5E4,Mace Tyrell,8,77
+S5E4,Margaery Tyrell,11,116
+S5E4,Melisandre,14,194
+S5E4,Merchant Captain,1,6
+S5E4,Missandei,1,1
+S5E4,Nymeria Sand,1,5
+S5E4,Obara Sand,4,116
+S5E4,Olyvar,1,6
+S5E4,Petyr Baelish,15,402
+S5E4,Samwell Tarly,6,77
+S5E4,Sansa Stark,15,114
+S5E4,Selyse Baratheon,5,31
+S5E4,Shireen Baratheon,5,41
+S5E4,Stannis Baratheon,12,266
+S5E4,Tommen Baratheon,17,117
+S5E4,Tyene Sand,2,5
+S5E4,Tyrion Lannister,7,224
+S5E4,Vala,1,4
+S5E5,Alliser Thorne,1,16
+S5E5,Bowen Marsh,1,27
+S5E5,Brienne of Tarth,7,88
+S5E5,Daario Naharis,1,40
+S5E5,Daenerys Targaryen,13,307
+S5E5,Davos Seaworth,10,94
+S5E5,Eddison Tollett,1,30
+S5E5,Gilly,8,46
+S5E5,Great Master #1,1,4
+S5E5,Grey Worm,5,65
+S5E5,Hizdahr zo Loraq,6,60
+S5E5,Jon Snow,26,466
+S5E5,Jorah Mormont,14,115
+S5E5,Maester Aemon,6,100
+S5E5,Missandei,8,120
+S5E5,Myranda,12,124
+S5E5,Old Woman,3,37
+S5E5,Olly,3,55
+S5E5,Othell Yarwyck,2,21
+S5E5,Podrick Payne,1,17
+S5E5,Ramsay Snow,28,464
+S5E5,Roose Bolton,13,243
+S5E5,Samwell Tarly,18,236
+S5E5,Sansa Stark,13,57
+S5E5,Selyse Baratheon,1,11
+S5E5,Shireen Baratheon,5,42
+S5E5,Stannis Baratheon,15,190
+S5E5,Theon Greyjoy,9,37
+S5E5,Tormund Giantsbane,13,156
+S5E5,Tyrion Lannister,18,328
+S5E5,Walda Frey,4,23
+S5E5,Winter Town Man,6,27
+S5E6,Areo Hotah,4,23
+S5E6,Arya Stark,17,274
+S5E6,Bronn,11,113
+S5E6,Cersei Lannister,29,429
+S5E6,Doran Martell,2,41
+S5E6,Ellaria Sand,1,5
+S5E6,Ghita,1,2
+S5E6,High Sparrow,20,221
+S5E6,Jaime Lannister,10,56
+S5E6,Jaqen H'ghar,8,90
+S5E6,Jorah Mormont,23,197
+S5E6,Joss,2,35
+S5E6,Lancel Lannister,4,53
+S5E6,Loras Tyrell,9,58
+S5E6,Malko,11,106
+S5E6,Margaery Tyrell,10,60
+S5E6,Myranda,6,176
+S5E6,Myrcella Baratheon,10,73
+S5E6,Nymeria Sand,3,10
+S5E6,Obara Sand,3,21
+S5E6,Olenna Tyrell,16,230
+S5E6,Olyvar,6,77
+S5E6,Petyr Baelish,23,363
+S5E6,Ramsay Snow,6,131
+S5E6,Roose Bolton,2,15
+S5E6,Sansa Stark,16,100
+S5E6,Slaver,3,12
+S5E6,The Waif,10,124
+S5E6,Theon Greyjoy,5,74
+S5E6,Trystane Martell,7,69
+S5E6,Tyene Sand,1,2
+S5E6,Tyrell Rider,1,1
+S5E6,Tyrion Lannister,26,477
+S5E7,Alliser Thorne,2,37
+S5E7,Areo Hotah,1,11
+S5E7,Brant,8,63
+S5E7,Bronn,14,144
+S5E7,Cersei Lannister,23,481
+S5E7,Daario Naharis,11,145
+S5E7,Daenerys Targaryen,14,113
+S5E7,Davos Seaworth,7,80
+S5E7,Derek,12,111
+S5E7,Gilly,13,87
+S5E7,High Sparrow,23,508
+S5E7,Hizdahr zo Loraq,2,52
+S5E7,Jaime Lannister,5,49
+S5E7,Jon Snow,4,20
+S5E7,Jorah Mormont,1,15
+S5E7,Maester Aemon,4,51
+S5E7,Malko,3,115
+S5E7,Margaery Tyrell,5,52
+S5E7,Melisandre,7,132
+S5E7,Myrcella Baratheon,6,86
+S5E7,Night's Watch Men,1,6
+S5E7,Nymeria Sand,1,16
+S5E7,Obara Sand,2,17
+S5E7,Olenna Tyrell,20,310
+S5E7,Petyr Baelish,8,116
+S5E7,Ramsay Snow,7,264
+S5E7,Samwell Tarly,19,249
+S5E7,Sansa Stark,14,143
+S5E7,Slave Fight Man,1,1
+S5E7,Slave Fighters,2,12
+S5E7,Stannis Baratheon,14,143
+S5E7,Theon Greyjoy,8,44
+S5E7,Tommen Baratheon,6,83
+S5E7,Tyene Sand,14,113
+S5E7,Tyrell Guard,1,2
+S5E7,Tyrion Lannister,7,88
+S5E7,Yezzan Zo Qaggaz,9,148
+S5E8,Arya Stark,10,173
+S5E8,Bolton Bannerman,1,19
+S5E8,Braavosi Captain,3,46
+S5E8,Cersei Lannister,13,160
+S5E8,Daenerys Targaryen,36,397
+S5E8,Dim Dalba,1,17
+S5E8,Eddison Tollett,5,16
+S5E8,Gilly,6,27
+S5E8,Jaqen H'ghar,11,211
+S5E8,Jon Snow,30,411
+S5E8,Jorah Mormont,4,61
+S5E8,Karsi,15,158
+S5E8,Loboda,10,110
+S5E8,Night's Watch Man #1,1,1
+S5E8,Night's Watch Man #10,1,1
+S5E8,Night's Watch Man #2,1,2
+S5E8,Night's Watch Man #3,1,7
+S5E8,Night's Watch Man #4,2,16
+S5E8,Night's Watch Man #5,1,4
+S5E8,Night's Watch Man #6,1,13
+S5E8,Night's Watch Man #7,1,1
+S5E8,Night's Watch Man #8,1,5
+S5E8,Night's Watch Man #9,1,4
+S5E8,Night's Watch Ranger,1,3
+S5E8,Olly,11,106
+S5E8,Qyburn,9,163
+S5E8,Ramsay Snow,3,71
+S5E8,Rattleshirt,7,93
+S5E8,Roose Bolton,3,102
+S5E8,Samwell Tarly,17,153
+S5E8,Sansa Stark,10,99
+S5E8,Septa Unella,5,6
+S5E8,The Waif,2,8
+S5E8,Theon Greyjoy,11,146
+S5E8,Thin Man,4,24
+S5E8,Todder,2,7
+S5E8,Tormund Giantsbane,22,209
+S5E8,Tyrion Lannister,34,970
+S5E8,Wildling Man #1,1,2
+S5E8,Wildling Man #2,1,4
+S5E8,Wildling Man #3,1,8
+S5E8,Wildling Man #4,1,2
+S5E8,Wildling Man #5,1,4
+S5E8,Wildling Man #6,1,4
+S5E8,Wildling Man #7,1,1
+S5E8,Wildling Man #8,1,3
+S5E8,Wildling Woman,1,2
+S5E8,Wildlings,2,18
+S5E8,Willa,1,5
+S5E8,Wun Wun,2,4
+S5E8,Yezzan Zo Qaggaz,2,17
+S5E9,Alliser Thorne,2,20
+S5E9,Areo Hotah,1,5
+S5E9,Arya Stark,5,33
+S5E9,Braavos Sailor,1,4
+S5E9,Braavosi Madam,5,42
+S5E9,Bronn,5,37
+S5E9,Brusco,1,5
+S5E9,Daario Naharis,6,145
+S5E9,Daenerys Targaryen,10,70
+S5E9,Davos Seaworth,18,291
+S5E9,Doran Martell,12,298
+S5E9,Dying Man,1,2
+S5E9,Ellaria Sand,8,172
+S5E9,Hizdahr zo Loraq,15,180
+S5E9,Jaime Lannister,22,152
+S5E9,Jaqen H'ghar,3,16
+S5E9,Jon Snow,3,19
+S5E9,Jorah Mormont,2,12
+S5E9,Lannister Guard #1,3,24
+S5E9,Lannister Guard #2,1,5
+S5E9,Lhara,1,22
+S5E9,Mace Tyrell,9,195
+S5E9,Melisandre,4,71
+S5E9,Meryn Trant,7,77
+S5E9,Myrcella Baratheon,4,21
+S5E9,Nymeria Sand,4,65
+S5E9,Obara Sand,1,1
+S5E9,Pit Announcer,4,46
+S5E9,Quick Fighter,1,6
+S5E9,Sailor,1,6
+S5E9,Samwell Tarly,2,23
+S5E9,Selyse Baratheon,4,32
+S5E9,Shireen Baratheon,20,314
+S5E9,Stannis Baratheon,21,275
+S5E9,Stannis Baratheon Soldier #1,1,2
+S5E9,Stannis Baratheon Soldier #2,1,2
+S5E9,Stannis Baratheon Soldier #3,1,2
+S5E9,Strong Fighter,1,6
+S5E9,Thin Man,1,15
+S5E9,Trystane Martell,3,21
+S5E9,Tycho Nestoris,8,83
+S5E9,Tyene Sand,5,34
+S5E9,Tyrion Lannister,8,84
+S5E9,Wildling Man #1,1,1
+S5E9,Wildling Man #2,1,1
+S5E9,Wildling Man #3,1,3
+S5E9,Young Braavosi,1,8
+S6E1,Akho,4,54
+S6E1,Alliser Thorne,7,246
+S6E1,Arya Stark,2,5
+S6E1,Bolton Officer,4,27
+S6E1,Bolton Soldier,1,2
+S6E1,Braavos Man #1,3,18
+S6E1,Braavos Man #2,2,8
+S6E1,Braavos Woman,1,6
+S6E1,Brienne of Tarth,1,36
+S6E1,Cersei Lannister,8,218
+S6E1,Daario Naharis,11,109
+S6E1,Daenerys Targaryen,6,84
+S6E1,Davos Seaworth,16,206
+S6E1,Doran Martell,5,83
+S6E1,Dothraki Bloodrider #1,3,16
+S6E1,Dothraki Bloodrider #2,1,12
+S6E1,Eddison Tollett,6,81
+S6E1,Ellaria Sand,4,82
+S6E1,Handmaid,1,16
+S6E1,High Sparrow,4,89
+S6E1,Jaime Lannister,7,77
+S6E1,Jorah Mormont,10,51
+S6E1,Khal Moro,8,119
+S6E1,Lord Varys,10,113
+S6E1,Loyal Night's Watchman #1,5,35
+S6E1,Loyal Night's Watchman #2,3,18
+S6E1,Maester Caleotte,1,2
+S6E1,Maester Wolkan,1,19
+S6E1,Margaery Tyrell,6,44
+S6E1,Meereenese Crowd,1,9
+S6E1,Melisandre,1,11
+S6E1,Moro's Wife #1,5,28
+S6E1,Moro's Wife #2,2,10
+S6E1,Night's Watch Man #1,1,5
+S6E1,Night's Watch Man #2,1,5
+S6E1,Night's Watch Man #3,1,3
+S6E1,Night's Watch Man #4,1,1
+S6E1,Night's Watch Man #5,1,1
+S6E1,Nymeria Sand,4,19
+S6E1,Obara Sand,2,13
+S6E1,Podrick Payne,1,6
+S6E1,Qhono,4,54
+S6E1,Ramsay Snow,5,101
+S6E1,Roose Bolton,4,160
+S6E1,Sansa Stark,5,66
+S6E1,Septa Unella,4,50
+S6E1,The Waif,2,33
+S6E1,Theon Greyjoy,7,75
+S6E1,Trystane Martell,3,16
+S6E1,Tyrion Lannister,12,172
+S6E1,Zanrush,2,55
+S6E10,Arya Stark,1,29
+S6E10,Benjen Stark,4,69
+S6E10,Bran Stark,2,16
+S6E10,Bronn,5,66
+S6E10,Carriage Driver,1,2
+S6E10,Cersei Lannister,7,232
+S6E10,Citadel Maester,4,47
+S6E10,Cley Cerwyn,2,75
+S6E10,Daario Naharis,12,218
+S6E10,Daenerys Targaryen,19,219
+S6E10,Davos Seaworth,10,160
+S6E10,Eddard Stark,5,29
+S6E10,Ellaria Sand,4,54
+S6E10,Frances,1,2
+S6E10,Frey Men,1,3
+S6E10,Grand Maester Pycelle,3,32
+S6E10,Handmaid,3,24
+S6E10,High Sparrow,9,157
+S6E10,Jaime Lannister,10,100
+S6E10,Jon Snow,13,191
+S6E10,King's Landing Crowd,1,4
+S6E10,Lancel Lannister,3,24
+S6E10,Lannister Captain,1,2
+S6E10,Lannister Men,1,3
+S6E10,Lannister Soldier #1,1,1
+S6E10,Lannister Soldier #2,1,1
+S6E10,Loras Tyrell,5,139
+S6E10,Lord Varys,1,3
+S6E10,Lyanna Mormont,2,136
+S6E10,Lyanna Stark,8,63
+S6E10,Mace Tyrell,1,5
+S6E10,Marei,1,4
+S6E10,Margaery Tyrell,6,105
+S6E10,Meera Reed,3,16
+S6E10,Melisandre,9,140
+S6E10,Nymeria Sand,1,10
+S6E10,Obara Sand,2,20
+S6E10,Olenna Tyrell,8,95
+S6E10,Petyr Baelish,6,163
+S6E10,Qyburn,5,114
+S6E10,Robett Glover,4,108
+S6E10,Samwell Tarly,4,43
+S6E10,Sansa Stark,10,115
+S6E10,Septa Unella,3,16
+S6E10,Stark Bannermen,1,40
+S6E10,Tommen Baratheon,1,14
+S6E10,Tommen's Manservant,2,16
+S6E10,Tormund Giantsbane,1,6
+S6E10,Tyrion Lannister,7,212
+S6E10,Walder Frey,12,256
+S6E10,Wyman Manderly,2,102
+S6E10,Yohn Royce,2,15
+S6E10,Young Ned Stark,1,1
+S6E2,Aeron Greyjoy,3,77
+S6E2,Alliser Thorne,3,58
+S6E2,Arya Stark,5,19
+S6E2,Balon Greyjoy,13,167
+S6E2,Bran Stark,13,110
+S6E2,Brienne of Tarth,5,61
+S6E2,Cersei Lannister,9,55
+S6E2,Davos Seaworth,13,139
+S6E2,Eddison Tollett,2,24
+S6E2,Euron Greyjoy,7,80
+S6E2,Grey Worm,2,29
+S6E2,Harald Karstark,6,66
+S6E2,High Sparrow,9,155
+S6E2,Hodor,4,4
+S6E2,Ironborn,1,6
+S6E2,Jaime Lannister,15,165
+S6E2,Jaqen H'ghar,5,54
+S6E2,King's Landing Boaster,1,104
+S6E2,Lannister Captain,4,41
+S6E2,Leaf,2,17
+S6E2,Lord Varys,5,44
+S6E2,Maester Wolkan,4,28
+S6E2,Meera Reed,3,29
+S6E2,Melisandre,14,161
+S6E2,Missandei,4,21
+S6E2,Ramsay Snow,15,158
+S6E2,Roose Bolton,6,78
+S6E2,Sansa Stark,9,76
+S6E2,The Waif,2,14
+S6E2,Theon Greyjoy,6,108
+S6E2,Three-Eyed Raven,3,23
+S6E2,Tommen Baratheon,14,190
+S6E2,Tormund Giantsbane,2,20
+S6E2,Tyrion Lannister,11,276
+S6E2,Walda Frey,6,62
+S6E2,Wyllis,1,10
+S6E2,Yara Greyjoy,10,153
+S6E2,Young Benjen Stark,4,17
+S6E2,Young Lyanna Stark,3,26
+S6E2,Young Nan,2,34
+S6E2,Young Ned Stark,5,46
+S6E2,Young Rodrik Cassel,1,5
+S6E3,Alliser Thorne,2,66
+S6E3,Arthur Dayne,7,39
+S6E3,Arya Stark,13,96
+S6E3,Bowen Marsh,1,7
+S6E3,Bran Stark,15,119
+S6E3,Cersei Lannister,9,156
+S6E3,Daenerys Targaryen,4,45
+S6E3,Davos Seaworth,5,79
+S6E3,Dothraki Matron,3,186
+S6E3,Eddison Tollett,5,36
+S6E3,Frances,2,9
+S6E3,Gerold Hightower,1,13
+S6E3,Gilly,11,165
+S6E3,Grand Maester Pycelle,2,102
+S6E3,Grey Worm,5,55
+S6E3,Harald Karstark,1,5
+S6E3,High Priestess,1,1
+S6E3,High Sparrow,11,301
+S6E3,Jaime Lannister,7,117
+S6E3,Jaqen H'ghar,2,29
+S6E3,Jon Snow,11,105
+S6E3,Kevan Lannister,3,40
+S6E3,Khal Moro,1,6
+S6E3,Lord Varys,8,407
+S6E3,Mace Tyrell,1,2
+S6E3,Melisandre,2,38
+S6E3,Missandei,7,70
+S6E3,Olenna Tyrell,2,46
+S6E3,Othell Yarwyck,1,18
+S6E3,Qhono,1,6
+S6E3,Qyburn,8,105
+S6E3,Ramsay Snow,14,128
+S6E3,Rickard Karstark,1,9
+S6E3,Samwell Tarly,10,152
+S6E3,Smalljon Umber,14,215
+S6E3,The Waif,9,65
+S6E3,Three-Eyed Raven,14,117
+S6E3,Tommen Baratheon,10,111
+S6E3,Tormund Giantsbane,2,31
+S6E3,Tyrion Lannister,11,258
+S6E3,Vala,4,69
+S6E3,Young Ned Stark,4,32
+S6E4,Akho,4,15
+S6E4,Ash,6,102
+S6E4,Belicho Paenymion,1,15
+S6E4,Brienne of Tarth,4,51
+S6E4,Cersei Lannister,14,323
+S6E4,Daario Naharis,16,173
+S6E4,Daenerys Targaryen,18,223
+S6E4,Davos Seaworth,8,47
+S6E4,Eddison Tollett,6,50
+S6E4,Grand Maester Pycelle,5,75
+S6E4,Grey Worm,10,132
+S6E4,High Priestess,6,119
+S6E4,High Sparrow,7,398
+S6E4,Iggo,3,13
+S6E4,Jaime Lannister,4,124
+S6E4,Jon Snow,26,326
+S6E4,Jorah Mormont,18,205
+S6E4,Kesh,5,43
+S6E4,Kevan Lannister,4,60
+S6E4,Khal Brozho,2,10
+S6E4,Khal Forzho,5,27
+S6E4,Khal Moro,12,179
+S6E4,Khal Qorro,1,22
+S6E4,Khal Rhalko,1,8
+S6E4,Loras Tyrell,4,29
+S6E4,Margaery Tyrell,11,133
+S6E4,Melisandre,4,22
+S6E4,Missandei,8,89
+S6E4,Night's Watch Man #1,2,5
+S6E4,Night's Watch Man #2,2,9
+S6E4,Olenna Tyrell,4,59
+S6E4,Ornela,8,42
+S6E4,Osha,9,82
+S6E4,Petyr Baelish,12,209
+S6E4,Ramsay Snow,10,120
+S6E4,Razdal Mo Eraz,3,45
+S6E4,Robin Arryn,6,26
+S6E4,Sansa Stark,23,300
+S6E4,Theon Greyjoy,12,69
+S6E4,Tommen Baratheon,6,91
+S6E4,Tormund Giantsbane,2,22
+S6E4,Tyrion Lannister,26,519
+S6E4,Yara Greyjoy,12,148
+S6E4,Yezzan Zo Qaggaz,5,71
+S6E4,Yohn Royce,6,90
+S6E5,Aeron Greyjoy,3,129
+S6E5,Arya Stark,9,69
+S6E5,Bianca,6,25
+S6E5,Bobono,6,127
+S6E5,Bran Stark,9,46
+S6E5,Brienne of Tarth,6,101
+S6E5,Camello,10,104
+S6E5,Clarenzo,3,41
+S6E5,Daenerys Targaryen,5,108
+S6E5,Davos Seaworth,7,195
+S6E5,Eddison Tollett,2,17
+S6E5,Euron Greyjoy,9,348
+S6E5,Grey Worm,3,15
+S6E5,Hodor,11,20
+S6E5,Ironborn Crowd,10,25
+S6E5,Ironborn Man #1,1,7
+S6E5,Ironborn Man #2,2,22
+S6E5,Izembaro,6,82
+S6E5,Jaqen H'ghar,11,205
+S6E5,Jon Snow,7,84
+S6E5,Jorah Mormont,4,51
+S6E5,Kinvara,7,292
+S6E5,Lady Crane,13,128
+S6E5,Leaf,6,31
+S6E5,Lord Varys,9,186
+S6E5,Meera Reed,19,184
+S6E5,Missandei,1,7
+S6E5,Night's Watch Man #1,1,4
+S6E5,Night's Watch Man #2,1,7
+S6E5,Petyr Baelish,14,190
+S6E5,Rickard Stark,2,27
+S6E5,Sansa Stark,31,506
+S6E5,The Night King,1,3
+S6E5,The Waif,1,19
+S6E5,Theon Greyjoy,7,99
+S6E5,Three-Eyed Raven,9,50
+S6E5,Tyrion Lannister,13,190
+S6E5,Wyllis,2,63
+S6E5,Yara Greyjoy,10,145
+S6E5,Young Nan,1,4
+S6E5,Young Ned Stark,1,2
+S6E5,Zanrush,1,17
+S6E6,Arya Stark,9,78
+S6E6,Benjen Stark,7,148
+S6E6,Bianca,1,5
+S6E6,Black Walder Rivers,5,32
+S6E6,Bobono,4,83
+S6E6,Bran Stark,5,43
+S6E6,Camello,3,27
+S6E6,Cersei Lannister,5,146
+S6E6,Clarenzo,3,68
+S6E6,Daario Naharis,8,60
+S6E6,Daenerys Targaryen,12,123
+S6E6,Dickon Tarly,5,46
+S6E6,Gilly,23,215
+S6E6,High Sparrow,9,215
+S6E6,Izembaro,8,151
+S6E6,Jaime Lannister,12,235
+S6E6,Jaqen H'ghar,3,12
+S6E6,King's Landing Woman,1,9
+S6E6,Lady Crane,14,224
+S6E6,Lothar Frey,3,30
+S6E6,Mace Tyrell,3,40
+S6E6,Margaery Tyrell,8,217
+S6E6,Meera Reed,3,12
+S6E6,Melessa Tarly,12,125
+S6E6,Olenna Tyrell,1,6
+S6E6,Randyll Tarly,9,309
+S6E6,Samwell Tarly,32,379
+S6E6,Talla Tarly,3,79
+S6E6,The Waif,2,6
+S6E6,Tommen Baratheon,16,202
+S6E6,Tyrell Captain,4,11
+S6E6,Walder Frey,7,232
+S6E7,Arya Stark,4,25
+S6E7,Black Walder Rivers,5,55
+S6E7,Bronn,10,120
+S6E7,Brother Ray,25,678
+S6E7,Brynden Tully,10,152
+S6E7,Cersei Lannister,6,79
+S6E7,Davos Seaworth,14,320
+S6E7,Dim Dalba,2,88
+S6E7,High Sparrow,9,210
+S6E7,Jaime Lannister,21,291
+S6E7,Jon Snow,21,330
+S6E7,Lannister Soldier #1,1,6
+S6E7,Lannister Soldier #2,1,3
+S6E7,Lem Lemoncloak,5,31
+S6E7,Lothar Frey,4,41
+S6E7,Lyanna Mormont,14,199
+S6E7,Margaery Tyrell,22,216
+S6E7,Northman Rioter,1,5
+S6E7,Olenna Tyrell,18,317
+S6E7,Robett Glover,8,197
+S6E7,Sandor Clegane,16,130
+S6E7,Sansa Stark,8,126
+S6E7,The Waif's Disguise,1,2
+S6E7,Theon Greyjoy,7,42
+S6E7,Tormund Giantsbane,3,97
+S6E7,Villager Man #1,1,7
+S6E7,Villager Man #2,1,2
+S6E7,Villager Man #3,1,3
+S6E7,Westerosi Trader,4,51
+S6E7,Wildling Rioter,1,6
+S6E7,Wun Wun,1,1
+S6E7,Yara Greyjoy,7,239
+S6E8,Arya Stark,15,106
+S6E8,Beric Dondarrion,11,145
+S6E8,Black Walder Rivers,1,10
+S6E8,Bobono,2,30
+S6E8,Brienne of Tarth,30,353
+S6E8,Bronn,8,181
+S6E8,Brynden Tully,16,296
+S6E8,Cersei Lannister,11,106
+S6E8,Edmure Tully,15,245
+S6E8,Gatins,6,75
+S6E8,Grey Worm,12,120
+S6E8,Izembaro,1,29
+S6E8,Jaime Lannister,31,618
+S6E8,Jaqen H'ghar,1,15
+S6E8,Kevan Lannister,3,34
+S6E8,King's Landing Crowd,1,2
+S6E8,Lady Crane,13,271
+S6E8,Lancel Lannister,5,67
+S6E8,Lannister Soldier,3,17
+S6E8,Lem Lemoncloak,1,6
+S6E8,Lord Varys,6,91
+S6E8,Missandei,12,95
+S6E8,Morgan,4,24
+S6E8,Podrick Payne,10,45
+S6E8,Qyburn,5,50
+S6E8,Red Priestess,1,53
+S6E8,Riddell,1,3
+S6E8,Sandor Clegane,21,213
+S6E8,Stagehand,1,3
+S6E8,Steve,2,16
+S6E8,The Waif,1,67
+S6E8,Thoros Of Myr,8,68
+S6E8,Tommen Baratheon,1,145
+S6E8,Tully Guard,1,2
+S6E8,Tully Guard Captain,9,67
+S6E8,Tyrion Lannister,28,362
+S6E9,Belicho Paenymion,1,2
+S6E9,Bolton General,1,3
+S6E9,Bolton Soldier #1,3,4
+S6E9,Bolton Soldier #2,3,3
+S6E9,Bolton Soldier #3,2,2
+S6E9,Bolton Soldier #4,3,5
+S6E9,Bolton Soldier #5,1,2
+S6E9,Bolton Soldier #6,2,7
+S6E9,Bolton Soldier #7,1,4
+S6E9,Bolton Soldiers,2,4
+S6E9,Daenerys Targaryen,18,241
+S6E9,Davos Seaworth,16,210
+S6E9,Grey Worm,1,23
+S6E9,Harald Karstark,1,2
+S6E9,Jon Snow,31,357
+S6E9,Melisandre,8,96
+S6E9,Missandei,1,14
+S6E9,Ramsay Snow,19,379
+S6E9,Razdal Mo Eraz,4,72
+S6E9,Sansa Stark,20,301
+S6E9,Smalljon Umber,3,10
+S6E9,Stark Soldier #1,2,2
+S6E9,Stark Soldier #2,1,4
+S6E9,Theon Greyjoy,10,127
+S6E9,Tormund Giantsbane,15,197
+S6E9,Tyrion Lannister,16,466
+S6E9,Wildling #1,1,1
+S6E9,Wildling #2,1,3
+S6E9,Wildling #3,1,3
+S6E9,Yara Greyjoy,8,75
+S6E9,Yezzan Zo Qaggaz,2,65
+S7E1,Alys Karstark,1,3
+S7E1,Archmaester Ebrose,9,278
+S7E1,Arya Stark,12,83
+S7E1,Baby Sam,1,1
+S7E1,Beric Dondarrion,13,168
+S7E1,Bran Stark,1,33
+S7E1,Brienne of Tarth,3,10
+S7E1,Cersei Lannister,26,396
+S7E1,Daenerys Targaryen,1,3
+S7E1,Eddison Tollett,3,15
+S7E1,Euron Greyjoy,8,357
+S7E1,Frey Men,1,2
+S7E1,Gilly,5,16
+S7E1,Jaime Lannister,23,359
+S7E1,Jon Snow,25,549
+S7E1,Jorah Mormont,2,9
+S7E1,Lannister Soldier #1,3,89
+S7E1,Lannister Soldier #2,8,123
+S7E1,Lannister Soldier #3,9,164
+S7E1,Lyanna Mormont,2,58
+S7E1,Maester Wolkan,1,7
+S7E1,Meera Reed,1,15
+S7E1,Ned Umber,1,3
+S7E1,Petyr Baelish,4,46
+S7E1,Robett Glover,3,32
+S7E1,Samwell Tarly,15,171
+S7E1,Sandor Clegane,25,302
+S7E1,Sansa Stark,25,360
+S7E1,Stark Bannermen,1,1
+S7E1,Thoros Of Myr,15,130
+S7E1,Tormund Giantsbane,3,26
+S7E1,Walder Frey,2,206
+S7E1,Yohn Royce,1,20
+S7E2,Archmaester Ebrose,15,262
+S7E2,Arya Stark,16,93
+S7E2,Cersei Lannister,3,230
+S7E2,Daenerys Targaryen,30,521
+S7E2,Davos Seaworth,4,56
+S7E2,Dickon Tarly,2,3
+S7E2,Ellaria Sand,15,153
+S7E2,Euron Greyjoy,2,21
+S7E2,Grey Worm,10,132
+S7E2,Hot Pie,16,175
+S7E2,Ironborn Man #1,1,3
+S7E2,Jaime Lannister,9,192
+S7E2,Jon Snow,15,399
+S7E2,Jorah Mormont,7,32
+S7E2,King's Landing Trader #1,3,28
+S7E2,King's Landing Trader #2,2,19
+S7E2,Lord Varys,15,354
+S7E2,Lyanna Mormont,1,15
+S7E2,Maester Wolkan,1,7
+S7E2,Melisandre,8,136
+S7E2,Missandei,10,82
+S7E2,Nymeria Sand,5,22
+S7E2,Obara Sand,6,24
+S7E2,Olenna Tyrell,4,160
+S7E2,Petyr Baelish,3,144
+S7E2,Qyburn,4,101
+S7E2,Randyll Tarly,7,126
+S7E2,Robett Glover,1,14
+S7E2,Samwell Tarly,16,232
+S7E2,Sansa Stark,9,140
+S7E2,Stark Man #1,1,4
+S7E2,Stark Soldier #1,2,4
+S7E2,Stark Soldier #2,2,4
+S7E2,Theon Greyjoy,2,6
+S7E2,Tyene Sand,3,30
+S7E2,Tyrion Lannister,15,348
+S7E2,Yara Greyjoy,14,97
+S7E2,Yohn Royce,1,27
+S7E3,Archmaester Ebrose,10,211
+S7E3,Bernadette,2,14
+S7E3,Bran Stark,9,126
+S7E3,Cersei Lannister,20,791
+S7E3,Daenerys Targaryen,40,795
+S7E3,Davos Seaworth,9,260
+S7E3,Euron Greyjoy,7,152
+S7E3,Grey Worm,2,17
+S7E3,Harrag,3,19
+S7E3,Ironborn #1,3,4
+S7E3,Ironborn #2,2,3
+S7E3,Jaime Lannister,16,244
+S7E3,Jon Snow,44,586
+S7E3,Jorah Mormont,5,84
+S7E3,King's Landing Crowd,1,1
+S7E3,King's Landing Man #1,1,1
+S7E3,King's Landing Man #2,1,3
+S7E3,King's Landing Man #3,1,1
+S7E3,King's Landing Woman,1,1
+S7E3,Lannister Soldier,1,2
+S7E3,Lord Varys,12,172
+S7E3,Maester Wolkan,3,28
+S7E3,Melisandre,7,82
+S7E3,Missandei,6,105
+S7E3,Olenna Tyrell,15,345
+S7E3,Petyr Baelish,4,119
+S7E3,Qyburn,3,20
+S7E3,Samwell Tarly,9,50
+S7E3,Sansa Stark,18,214
+S7E3,Stark Guard,1,5
+S7E3,Theon Greyjoy,2,9
+S7E3,Tycho Nestoris,10,190
+S7E3,Tyene Sand,1,1
+S7E3,Tyrion Lannister,45,1137
+S7E3,Unsullied Soldier,1,2
+S7E3,Yohn Royce,4,37
+S7E4,Arya Stark,27,265
+S7E4,Bran Stark,20,125
+S7E4,Brienne of Tarth,8,64
+S7E4,Bronn,23,180
+S7E4,Cersei Lannister,6,82
+S7E4,Daenerys Targaryen,21,239
+S7E4,Davos Seaworth,14,109
+S7E4,Dickon Tarly,7,49
+S7E4,Henk,13,111
+S7E4,Ironborn Man,1,1
+S7E4,Jaime Lannister,34,278
+S7E4,Jon Snow,24,278
+S7E4,Koner,11,67
+S7E4,Lannister Soldier,1,3
+S7E4,Lannister Soldier #1,1,6
+S7E4,Lannister Soldier #10,1,1
+S7E4,Lannister Soldier #11,1,3
+S7E4,Lannister Soldier #12,1,2
+S7E4,Lannister Soldier #13,1,3
+S7E4,Lannister Soldier #14,1,1
+S7E4,Lannister Soldier #15,1,4
+S7E4,Lannister Soldier #16,3,6
+S7E4,Lannister Soldier #17,1,1
+S7E4,Lannister Soldier #18,1,2
+S7E4,Lannister Soldier #2,1,1
+S7E4,Lannister Soldier #3,1,3
+S7E4,Lannister Soldier #4,1,3
+S7E4,Lannister Soldier #5,1,2
+S7E4,Lannister Soldier #6,1,2
+S7E4,Lannister Soldier #7,1,1
+S7E4,Lannister Soldier #8,1,2
+S7E4,Lannister Soldier #9,2,8
+S7E4,Meera Reed,7,69
+S7E4,Missandei,12,130
+S7E4,Petyr Baelish,3,160
+S7E4,Podrick Payne,2,16
+S7E4,Qhono,1,4
+S7E4,Randyll Tarly,11,94
+S7E4,Sansa Stark,21,161
+S7E4,Theon Greyjoy,4,33
+S7E4,Tycho Nestoris,7,158
+S7E4,Tyrion Lannister,8,64
+S7E5,Archmaester Ebrose,11,137
+S7E5,Arya Stark,11,94
+S7E5,Beric Dondarrion,3,80
+S7E5,Bran Stark,1,6
+S7E5,Bronn,9,131
+S7E5,Cersei Lannister,20,314
+S7E5,Citadel Maester #1,1,21
+S7E5,Daenerys Targaryen,26,386
+S7E5,Davos Seaworth,40,487
+S7E5,Dickon Tarly,3,17
+S7E5,Gendry,21,279
+S7E5,Gilly,7,99
+S7E5,Jaime Lannister,31,343
+S7E5,Jon Snow,32,309
+S7E5,Jorah Mormont,10,94
+S7E5,Kevin Eldon,9,47
+S7E5,Laurence Spellman,8,23
+S7E5,Lord Varys,9,172
+S7E5,Maester Sandhu,7,121
+S7E5,Maester Wolkan,2,18
+S7E5,Petyr Baelish,2,16
+S7E5,Qhono,1,8
+S7E5,Qyburn,3,9
+S7E5,Randyll Tarly,5,82
+S7E5,Robett Glover,1,25
+S7E5,Samwell Tarly,11,230
+S7E5,Sandor Clegane,1,15
+S7E5,Sansa Stark,12,155
+S7E5,Thoros Of Myr,2,30
+S7E5,Tormund Giantsbane,9,100
+S7E5,Tyrion Lannister,29,489
+S7E5,Yohn Royce,1,11
+S7E6,Arya Stark,26,794
+S7E6,Benjen Stark,2,9
+S7E6,Beric Dondarrion,20,289
+S7E6,Brienne of Tarth,7,83
+S7E6,Daenerys Targaryen,31,390
+S7E6,Davos Seaworth,2,10
+S7E6,Gendry,12,112
+S7E6,Jon Snow,43,376
+S7E6,Jorah Mormont,17,212
+S7E6,Maester Wolkan,1,4
+S7E6,Night's Watch Man #1,1,2
+S7E6,Night's Watch Man #2,1,3
+S7E6,Petyr Baelish,7,104
+S7E6,Sandor Clegane,26,198
+S7E6,Sansa Stark,39,562
+S7E6,Thoros Of Myr,11,75
+S7E6,Tormund Giantsbane,27,301
+S7E6,Tyrion Lannister,24,595
+S7E7,Arya Stark,12,120
+S7E7,Beric Dondarrion,1,5
+S7E7,Bran Stark,12,179
+S7E7,Brienne of Tarth,9,58
+S7E7,Bronn,16,236
+S7E7,Cersei Lannister,57,1201
+S7E7,Daenerys Targaryen,17,230
+S7E7,Davos Seaworth,3,22
+S7E7,Euron Greyjoy,7,113
+S7E7,Harrag,8,97
+S7E7,Ironborn Man #1,1,7
+S7E7,Ironborn Man #2,1,2
+S7E7,Ironborn Man #3,1,4
+S7E7,Ironborn Men,1,1
+S7E7,Jaime Lannister,36,403
+S7E7,Jon Snow,28,505
+S7E7,Jorah Mormont,2,80
+S7E7,Lannister General #1,1,12
+S7E7,Lannister Generals,1,2
+S7E7,Lannister Soldier #1,3,9
+S7E7,Lannister Soldier #2,1,3
+S7E7,Lannister Soldier #3,1,3
+S7E7,Lannister Soldier #4,1,3
+S7E7,Lord Varys,1,8
+S7E7,Lyanna Mormont,2,36
+S7E7,Missandei,1,5
+S7E7,Night's Watch Man #1,1,9
+S7E7,Night's Watch Man #2,1,3
+S7E7,Petyr Baelish,23,327
+S7E7,Podrick Payne,4,21
+S7E7,Qyburn,3,24
+S7E7,Rhaegar Targaryen,1,23
+S7E7,Samwell Tarly,9,121
+S7E7,Sandor Clegane,10,106
+S7E7,Sansa Stark,31,536
+S7E7,Theon Greyjoy,17,214
+S7E7,Tormund Giantsbane,2,15
+S7E7,Tyrion Lannister,44,722
+S7E7,Yohn Royce,1,3
+S8E1,Arya Stark,19,101
+S8E1,Beric Dondarrion,2,11
+S8E1,Bran Stark,4,52
+S8E1,Bronn,10,80
+S8E1,Cersei Lannister,16,130
+S8E1,Craya,7,55
+S8E1,Daenerys Targaryen,23,176
+S8E1,Davos Seaworth,3,117
+S8E1,Dirah,5,25
+S8E1,Eddison Tollett,2,19
+S8E1,Euron Greyjoy,15,158
+S8E1,Gendry,12,104
+S8E1,Harry Strickland,5,38
+S8E1,Jon Snow,43,436
+S8E1,Jorah Mormont,1,5
+S8E1,Lord Varys,5,57
+S8E1,Lyanna Mormont,2,37
+S8E1,Maester Wolkan,1,4
+S8E1,Marei,1,2
+S8E1,Ned Umber,1,18
+S8E1,Qhono,1,4
+S8E1,Qyburn,10,164
+S8E1,Samwell Tarly,24,300
+S8E1,Sandor Clegane,4,45
+S8E1,Sansa Stark,18,210
+S8E1,Stark Bannerman,1,4
+S8E1,Theon Greyjoy,3,17
+S8E1,Tormund Giantsbane,4,38
+S8E1,Tyrion Lannister,17,246
+S8E1,Winterfell Man,1,1
+S8E1,Winterfell Man #1,1,3
+S8E1,Winterfell Man #2,1,1
+S8E1,Winterfell Man #3,1,4
+S8E1,Winterfell Man #4,1,2
+S8E1,Winterfell Man #5,1,3
+S8E1,Winterfell Smith #1,1,2
+S8E1,Winterfell Smith #2,1,3
+S8E1,Yara Greyjoy,8,86
+S8E1,Yohn Royce,2,10
+S8E2,Arya Stark,25,233
+S8E2,Beric Dondarrion,3,42
+S8E2,Bran Stark,15,148
+S8E2,Brienne of Tarth,23,234
+S8E2,Daenerys Targaryen,40,630
+S8E2,Davos Seaworth,11,150
+S8E2,Eddison Tollett,6,52
+S8E2,Fergus,2,6
+S8E2,Gendry,19,175
+S8E2,Gilly,2,49
+S8E2,Grey Worm,3,77
+S8E2,Jaime Lannister,44,428
+S8E2,Jon Snow,22,253
+S8E2,Jorah Mormont,14,136
+S8E2,Lyanna Mormont,4,53
+S8E2,Maester Wolkan,1,5
+S8E2,Missandei,3,17
+S8E2,Mormont Man #1,1,2
+S8E2,Mormont Man #2,1,2
+S8E2,Podrick Payne,5,108
+S8E2,Samwell Tarly,13,208
+S8E2,Sandor Clegane,6,89
+S8E2,Sansa Stark,17,195
+S8E2,Teela,3,34
+S8E2,Theon Greyjoy,4,62
+S8E2,Tormund Giantsbane,16,149
+S8E2,Tyrion Lannister,40,527
+S8E2,Winterfell Child #1,1,4
+S8E2,Winterfell Man #1,1,7
+S8E2,Winterfell Man #10,1,4
+S8E2,Winterfell Man #11,1,5
+S8E2,Winterfell Man #2,1,8
+S8E2,Winterfell Man #3,1,1
+S8E2,Winterfell Man #4,1,3
+S8E2,Winterfell Man #5,1,3
+S8E2,Winterfell Man #6,1,5
+S8E2,Winterfell Man #7,1,1
+S8E2,Winterfell Man #8,1,2
+S8E2,Winterfell Man #9,1,8
+S8E2,Winterfell Smith,1,2
+S8E2,Winterfell Soldier #1,1,2
+S8E2,Winterfell Soldier #2,1,12
+S8E2,Winterfell Soldier #3,2,8
+S8E2,Winterfell Soldier #4,1,2
+S8E2,Winterfell Woman #1,1,2
+S8E2,Winterfell Woman #2,1,5
+S8E2,Winterfell Woman #3,1,5
+S8E2,Yohn Royce,1,17
+S8E3,Arya Stark,7,38
+S8E3,Beric Dondarrion,7,21
+S8E3,Bran Stark,2,25
+S8E3,Brienne of Tarth,5,14
+S8E3,Daenerys Targaryen,4,8
+S8E3,Davos Seaworth,6,24
+S8E3,Eddison Tollett,2,14
+S8E3,Grey Worm,6,17
+S8E3,Ironborn #1,1,2
+S8E3,Ironborn #2,1,1
+S8E3,Jaime Lannister,10,39
+S8E3,Jon Snow,4,9
+S8E3,Jorah Mormont,2,6
+S8E3,Lord Varys,2,14
+S8E3,Lyanna Mormont,6,31
+S8E3,Melisandre,10,137
+S8E3,Missandei,1,16
+S8E3,Mormont Soldier #1,4,11
+S8E3,Mormont Soldier #2,1,3
+S8E3,Mormont Soldier #3,1,2
+S8E3,Northern Soldier #1,1,5
+S8E3,Northern Soldier #10,1,3
+S8E3,Northern Soldier #11,1,1
+S8E3,Northern Soldier #12,1,2
+S8E3,Northern Soldier #13,1,5
+S8E3,Northern Soldier #14,1,4
+S8E3,Northern Soldier #15,1,3
+S8E3,Northern Soldier #16,1,3
+S8E3,Northern Soldier #17,1,4
+S8E3,Northern Soldier #18,1,1
+S8E3,Northern Soldier #19,1,4
+S8E3,Northern Soldier #2,1,2
+S8E3,Northern Soldier #20,1,1
+S8E3,Northern Soldier #21,1,3
+S8E3,Northern Soldier #22,1,8
+S8E3,Northern Soldier #23,1,2
+S8E3,Northern Soldier #24,1,4
+S8E3,Northern Soldier #25,1,4
+S8E3,Northern Soldier #26,1,3
+S8E3,Northern Soldier #27,2,5
+S8E3,Northern Soldier #28,3,17
+S8E3,Northern Soldier #29,3,7
+S8E3,Northern Soldier #3,2,6
+S8E3,Northern Soldier #30,3,9
+S8E3,Northern Soldier #31,1,3
+S8E3,Northern Soldier #32,1,3
+S8E3,Northern Soldier #33,1,3
+S8E3,Northern Soldier #34,1,2
+S8E3,Northern Soldier #35,1,9
+S8E3,Northern Soldier #4,1,3
+S8E3,Northern Soldier #5,1,3
+S8E3,Northern Soldier #6,1,3
+S8E3,Northern Soldier #7,1,3
+S8E3,Northern Soldier #8,1,2
+S8E3,Northern Soldier #9,1,2
+S8E3,Northern Woman #1,1,1
+S8E3,Northern Woman #2,1,7
+S8E3,Northern Woman #3,1,4
+S8E3,Northman #1,2,2
+S8E3,Northman #2,1,2
+S8E3,Northman #3,1,5
+S8E3,Northman #4,1,3
+S8E3,Northman #5,1,4
+S8E3,Samwell Tarly,1,2
+S8E3,Sandor Clegane,5,29
+S8E3,Sansa Stark,7,75
+S8E3,Theon Greyjoy,3,30
+S8E3,Tormund Giantsbane,2,6
+S8E3,Tyrion Lannister,7,87
+S8E3,Unsullied #1,1,2
+S8E3,Unsullied #2,1,1
+S8E3,Unsullied #3,1,1
+S8E4,Arya Stark,19,133
+S8E4,Bran Stark,5,43
+S8E4,Brienne of Tarth,22,173
+S8E4,Bronn,16,376
+S8E4,Cersei Lannister,6,82
+S8E4,Daenerys Targaryen,27,550
+S8E4,Davos Seaworth,8,96
+S8E4,Euron Greyjoy,3,17
+S8E4,Gendry,10,133
+S8E4,Gilly,1,18
+S8E4,Grey Worm,4,26
+S8E4,Jaime Lannister,30,258
+S8E4,Jon Snow,32,425
+S8E4,King's Landing Captain,1,3
+S8E4,Lord Varys,25,521
+S8E4,Missandei,3,17
+S8E4,Podrick Payne,1,1
+S8E4,Qyburn,9,103
+S8E4,Samwell Tarly,3,38
+S8E4,Sandor Clegane,18,162
+S8E4,Sansa Stark,26,279
+S8E4,Tormund Giantsbane,17,268
+S8E4,Tyrion Lannister,79,1084
+S8E4,Tyrion Lannisters,1,14
+S8E4,Unsullied #1,1,1
+S8E4,Unsullied #2,1,4
+S8E4,Unsullied #3,1,1
+S8E4,Unsullied #4,2,3
+S8E4,Unsullied #5,2,4
+S8E4,Willa,1,9
+S8E4,Winterfell Man #1,1,3
+S8E4,Winterfell Man #10,1,2
+S8E4,Winterfell Man #11,1,2
+S8E4,Winterfell Man #12,1,4
+S8E4,Winterfell Man #13,2,9
+S8E4,Winterfell Man #14,2,10
+S8E4,Winterfell Man #15,1,1
+S8E4,Winterfell Man #16,1,3
+S8E4,Winterfell Man #17,2,14
+S8E4,Winterfell Man #18,1,7
+S8E4,Winterfell Man #19,3,18
+S8E4,Winterfell Man #2,1,2
+S8E4,Winterfell Man #20,1,3
+S8E4,Winterfell Man #21,1,5
+S8E4,Winterfell Man #3,1,1
+S8E4,Winterfell Man #4,1,1
+S8E4,Winterfell Man #5,1,1
+S8E4,Winterfell Man #6,1,2
+S8E4,Winterfell Man #7,1,1
+S8E4,Winterfell Man #8,1,4
+S8E4,Winterfell Man #9,1,3
+S8E4,Winterfell Woman #1,1,9
+S8E4,Winterfell Woman #2,1,1
+S8E4,Winterfell Woman #3,1,4
+S8E4,Winterfell Woman #4,1,2
+S8E4,Winterfell Woman #5,1,5
+S8E5,Arya Stark,11,59
+S8E5,Cersei Lannister,12,123
+S8E5,Daenerys Targaryen,23,349
+S8E5,Davos Seaworth,3,17
+S8E5,Eleanor,5,30
+S8E5,Eleanor's Daughter,1,7
+S8E5,Euron Greyjoy,8,82
+S8E5,Golden Company Soldier #1,1,1
+S8E5,Golden Company Soldier #2,1,1
+S8E5,Ironborn Soldier #1,1,1
+S8E5,Ironborn Soldier #2,1,3
+S8E5,Jaime Lannister,24,213
+S8E5,Jon Snow,17,120
+S8E5,King's Landing Child,1,2
+S8E5,King's Landing Guard #1,1,3
+S8E5,King's Landing Guard #2,1,3
+S8E5,King's Landing Guard #3,1,2
+S8E5,King's Landing Man #1,1,2
+S8E5,King's Landing Man #10,1,2
+S8E5,King's Landing Man #11,1,3
+S8E5,King's Landing Man #12,1,4
+S8E5,King's Landing Man #13,1,6
+S8E5,King's Landing Man #14,1,4
+S8E5,King's Landing Man #15,1,2
+S8E5,King's Landing Man #16,2,7
+S8E5,King's Landing Man #17,1,3
+S8E5,King's Landing Man #18,1,6
+S8E5,King's Landing Man #19,1,3
+S8E5,King's Landing Man #2,2,7
+S8E5,King's Landing Man #20,1,2
+S8E5,King's Landing Man #21,1,3
+S8E5,King's Landing Man #22,1,3
+S8E5,King's Landing Man #23,1,2
+S8E5,King's Landing Man #24,1,5
+S8E5,King's Landing Man #25,1,3
+S8E5,King's Landing Man #26,1,3
+S8E5,King's Landing Man #27,1,5
+S8E5,King's Landing Man #28,1,2
+S8E5,King's Landing Man #29,1,4
+S8E5,King's Landing Man #3,1,2
+S8E5,King's Landing Man #30,1,1
+S8E5,King's Landing Man #31,2,12
+S8E5,King's Landing Man #32,1,4
+S8E5,King's Landing Man #4,1,8
+S8E5,King's Landing Man #5,1,2
+S8E5,King's Landing Man #6,1,2
+S8E5,King's Landing Man #7,1,4
+S8E5,King's Landing Man #8,1,2
+S8E5,King's Landing Man #9,1,3
+S8E5,King's Landing Woman #1,1,4
+S8E5,King's Landing Woman #10,1,3
+S8E5,King's Landing Woman #11,2,9
+S8E5,King's Landing Woman #12,2,10
+S8E5,King's Landing Woman #2,1,1
+S8E5,King's Landing Woman #3,1,2
+S8E5,King's Landing Woman #4,1,3
+S8E5,King's Landing Woman #5,1,1
+S8E5,King's Landing Woman #6,1,2
+S8E5,King's Landing Woman #7,2,4
+S8E5,King's Landing Woman #8,3,15
+S8E5,King's Landing Woman #9,1,3
+S8E5,Lannister Soldier #1,1,4
+S8E5,Lannister Soldier #10,1,2
+S8E5,Lannister Soldier #11,1,4
+S8E5,Lannister Soldier #12,3,7
+S8E5,Lannister Soldier #13,2,3
+S8E5,Lannister Soldier #14,1,9
+S8E5,Lannister Soldier #15,3,7
+S8E5,Lannister Soldier #16,2,22
+S8E5,Lannister Soldier #17,2,6
+S8E5,Lannister Soldier #18,2,8
+S8E5,Lannister Soldier #19,4,18
+S8E5,Lannister Soldier #2,1,3
+S8E5,Lannister Soldier #20,1,3
+S8E5,Lannister Soldier #21,1,1
+S8E5,Lannister Soldier #22,1,3
+S8E5,Lannister Soldier #23,1,3
+S8E5,Lannister Soldier #24,1,3
+S8E5,Lannister Soldier #25,1,3
+S8E5,Lannister Soldier #26,1,5
+S8E5,Lannister Soldier #27,1,2
+S8E5,Lannister Soldier #3,1,3
+S8E5,Lannister Soldier #4,1,4
+S8E5,Lannister Soldier #5,1,5
+S8E5,Lannister Soldier #6,1,3
+S8E5,Lannister Soldier #7,1,4
+S8E5,Lannister Soldier #8,1,2
+S8E5,Lannister Soldier #9,1,11
+S8E5,Lord Varys,14,192
+S8E5,Martha,4,18
+S8E5,Northern Guard #1,2,13
+S8E5,Northern Soldier #1,1,3
+S8E5,Northern Soldier #2,1,2
+S8E5,Northern Soldier #3,3,21
+S8E5,Northern Soldier #4,1,15
+S8E5,Northern Soldier #5,1,4
+S8E5,Northern Soldier #6,1,3
+S8E5,Northern Soldier #7,2,4
+S8E5,Owen,2,17
+S8E5,Qyburn,7,63
+S8E5,Sandor Clegane,9,118
+S8E5,Tyrion Lannister,38,597
+S8E5,Unsullied Soldier #1,3,13
+S8E6,Arya Stark,9,77
+S8E6,Bran Stark,11,98
+S8E6,Brienne of Tarth,5,24
+S8E6,Bronn,11,96
+S8E6,Daenerys Targaryen,15,386
+S8E6,Davos Seaworth,11,175
+S8E6,Dornish Lord,2,6
+S8E6,Dothraki Bloodrider #1,1,1
+S8E6,Edmure Tully,5,83
+S8E6,Gendry,2,6
+S8E6,Grey Worm,15,133
+S8E6,Jon Snow,44,378
+S8E6,Lord #1,2,6
+S8E6,Lord #2,2,6
+S8E6,Lord #3,2,6
+S8E6,Lord #4,2,6
+S8E6,Robin Arryn,2,6
+S8E6,Samwell Tarly,12,119
+S8E6,Sansa Stark,10,141
+S8E6,Stark Bannerman,1,5
+S8E6,Stark Bannermen,1,25
+S8E6,Tyrion Lannister,52,1268
+S8E6,Unsullied #1,1,5
+S8E6,Yara Greyjoy,4,53
+S8E6,Yohn Royce,5,23
